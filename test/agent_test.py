@@ -24,13 +24,5 @@ os.makedirs("data", exist_ok=True)
 with open("data/news_summary.json", "w") as f:
     json.dump(result, f, indent=2)
 
-print("\n=== SUMMARY ===")
 print(f"Total articles summarized: {result['total_articles']}")
-for i, summary in enumerate(result["summaries"], 1):
-    print(f"\n--- Article {i} ---")
-    print(f"Title: {summary['title']}")
-    print(f"Summary: {summary['summary']}")
-    print(f"Source: {summary['source']}")
-
-print("\n✓ Summary saved to data/news_summary.json")
 print("\n✓ Summary saved to data/news_summary.json")
