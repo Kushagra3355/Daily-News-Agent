@@ -7,6 +7,9 @@ An intelligent news aggregation and summarization system powered by OpenAI. This
 - **News Fetching**: Automatically fetches the latest technology news from NewsData.io API with pagination support (up to 3 pages)
 - **Data Preprocessing**: Cleans and structures raw API responses for processing
 - **AI-Powered Summarization**: Uses OpenAI's language models to generate concise 3-4 line summaries
+- **REST API**: FastAPI-based REST endpoints for easy integration
+- **Category Filtering**: Filter news by categories and list available categories
+- **Caching**: Efficient caching system to avoid redundant API calls
 - **Structured Output**: Saves both raw news data and summaries in JSON format
 - **Individual Article Processing**: Summarizes each news article separately with metadata
 
@@ -16,16 +19,21 @@ An intelligent news aggregation and summarization system powered by OpenAI. This
 Daily News Agent/
 ├── agents/
 │   └── summerizer_agent.py    # AI summarization agent
+├── api/
+│   └── main.py                # FastAPI REST API endpoints
 ├── app/
 │   ├── config.py              # Configuration and environment variables
 │   ├── dependencies.py        # LLM initialization
-│   └── main.py                # Main application entry point
+│   └── temp_main.py           # Standalone script runner
 ├── data/
 │   ├── news_response.json     # Raw news data from API (generated)
 │   └── news_summary.json      # AI-generated summaries (generated)
 ├── test/
 │   ├── agent_test.py          # Test script for agent functionality
 │   └── news_api_test.py       # Test script for news API
+├── tools/
+│   ├── category_filter.py     # Filter news by category
+│   └── category_extractor.py  # Extract available categories
 ├── utils/
 │   ├── fetcher.py             # News fetching with pagination (up to 3 pages)
 │   ├── preprocessing.py       # Data preprocessing utilities
@@ -111,18 +119,171 @@ Adjust in `utils/preprocessing.py`:
 
 ## Usage
 
-### Running the Application
+### Option 1: Run as REST API (Recommended)
 
-The simplest way to run the complete news aggregation and summarization pipeline:
+Start the FastAPI server:
 
 ```bash
-python app/main.py
+uvicorn api.main:app --reload
 ```
 
-Or using the module syntax:
+The API will be available at `http://localhost:8000`
+
+**API Endpoints:**
+
+#### 1. `POST /news/refresh`
+
+**Purpose:** Manually trigger news fetching and summarization pipeline
+
+**Description:** This endpoint fetches fresh news from NewsData.io API (up to 3 pages), preprocesses the data, generates AI summaries using OpenAI, and saves the results to the cache file.
+
+**Response:**
+
+```json
+{
+  "message": "News refreshed successfully",
+  "data": {
+    "total_articles": 15,
+    "summaries": [...]
+  }
+}
+```
+
+**Example:**
 
 ```bash
-python -m app.main
+curl -X POST http://localhost:8000/news/refresh
+```
+
+---
+
+#### 2. `GET /news/all`
+
+**Purpose:** Retrieve all cached news summaries
+
+**Description:** Returns all news articles with AI-generated summaries from the cache. This endpoint reads from `data/news_summary.json` without making new API calls.
+
+**Response:**
+
+```json
+{
+  "total_articles": 15,
+  "summaries": [
+    {
+      "title": "AI Breakthrough in Natural Language Processing",
+      "summary": "Researchers have developed a new model that achieves state-of-the-art results...",
+      "category": ["technology", "ai"],
+      "source": "TechCrunch",
+      "date": "2025-12-29",
+      "url": "https://example.com/article1"
+    }
+  ]
+}
+```
+
+**Example:**
+
+```bash
+curl http://localhost:8000/news/all
+```
+
+---
+
+#### 3. `GET /news/category/{category}`
+
+**Purpose:** Filter news by specific category
+
+**Description:** Returns only news articles that match the specified category. Categories are case-insensitive (e.g., "Technology", "technology", "TECHNOLOGY" all work).
+
+**Parameters:**
+
+- `category` (path parameter): The category name to filter by (e.g., "technology", "business", "sports")
+
+**Response:**
+
+```json
+{
+  "category": "technology",
+  "total_articles": 8,
+  "summaries": [
+    {
+      "title": "Tech Article Title",
+      "summary": "Article summary...",
+      "category": ["technology"],
+      "source": "TechCrunch",
+      "date": "2025-12-29",
+      "url": "https://example.com/article"
+    }
+  ]
+}
+```
+
+**Example:**
+
+```bash
+curl http://localhost:8000/news/category/technology
+curl http://localhost:8000/news/category/business
+curl http://localhost:8000/news/category/ai
+```
+
+---
+
+#### 4. `GET /news/categories`
+
+**Purpose:** List all available news categories
+
+**Description:** Returns a list of all unique categories present in the cached news data, sorted alphabetically.
+
+**Response:**
+
+```json
+{
+  "total_categories": 5,
+  "categories": ["ai", "business", "politics", "technology", "world"]
+}
+```
+
+**Example:**
+
+```bash
+curl http://localhost:8000/news/categories
+```
+
+---
+
+**Interactive API Documentation:**
+
+Visit `http://localhost:8000/docs` for Swagger UI interactive documentation where you can:
+
+- Test all endpoints directly from your browser
+- View detailed request/response schemas
+- See example responses
+- Try different parameters
+
+**Alternative Documentation:**
+
+Visit `http://localhost:8000/redoc` for ReDoc alternative documentation with a different UI.
+
+---
+
+**Error Responses:**
+
+If no cached data is available:
+
+```json
+{
+  "detail": "No news data available. Please call /news/refresh first."
+}
+```
+
+HTTP Status: `404 Not Found`
+
+### Option 2: Run as Standalone Script
+
+Run the complete news aggregation and summarization pipeline:
+
+```bash
+python app/temp_main.py
 ```
 
 This will automatically:
@@ -132,20 +293,17 @@ This will automatically:
 3. Generate AI-powered summaries for each article
 4. Save results to `data/news_summary.json`
 
-### Basic Usage
+### Option 3: Run Test Scripts
 
-Alternatively, you can run individual test scripts:
+Run individual test scripts:
 
 ```bash
+# Test the summarization agent
 python -m test.agent_test
+
+# Test the news API fetcher
+python -m test.news_api_test
 ```
-
-This will:
-
-1. Load news data from `data/news_response.json`
-2. Preprocess the articles
-3. Generate AI summaries for each article
-4. Save results to `data/news_summary.json`
 
 ### Fetch Fresh News
 
@@ -169,12 +327,42 @@ news_data = fetch_news()
     {
       "title": "Article Title",
       "summary": "AI-generated 3-4 line summary...",
-      "category": "technology",
+      "category": ["technology", "ai"],
       "source": "TechCrunch",
       "date": "2025-12-28",
       "url": "https://example.com/article"
     }
   ]
+}
+```
+
+### API Response Format
+
+**GET /news/all:**
+
+```json
+{
+  "total_articles": 3,
+  "summaries": [...]
+}
+```
+
+**GET /news/category/{category}:**
+
+```json
+{
+  "category": "technology",
+  "total_articles": 2,
+  "summaries": [...]
+}
+```
+
+**GET /news/categories:**
+
+```json
+{
+  "total_categories": 5,
+  "categories": ["ai", "business", "science", "technology", "world"]
 }
 ```
 
@@ -225,4 +413,18 @@ MODEL_NAME=gpt-4o
    ```
    Solution: Check .env file has correct keys
    Verify keys are active on respective platforms
+   ```
+
+3. **No News Data Available (404 Error)**
+
+   ```
+   Solution: Run POST /news/refresh first to fetch and generate news data
+   Or run: python app/temp_main.py
+   ```
+
+4. **FastAPI Server Issues**
+   ```
+   Solution: Ensure uvicorn is installed
+   pip install uvicorn[standard]
+   Check port 8000 is not in use
    ```
