@@ -1,16 +1,9 @@
-langchain
-langchain-core
-langchain-community
-langchain-openai
-langchain-text-splitters
-langgraph
-langchainhub
 requests
 python-dotenv
 streamlit
 fastapi
 uvicorn[standard]
 python-multipart
-docx2txt
-pydantic
-typing-extensions
+langchain-core #for prompt template
+langchain-openai #for LLM import
+
