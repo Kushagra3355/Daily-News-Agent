@@ -1,38 +1,37 @@
 {
-  "status": "success",
-  "totalResults": 7443,
+  "status": "ok",
+  "totalResults": 30,
   "results": [
     {
-      "article_id": "fe2b57902d3482e112fef03f951207fd",
-      "link": "https://www.themarketsdaily.com/2025/12/28/customers-bancorp-nysecubi-and-south-atlantic-bancshares-otcmktssabk-head-to-head-survey.html",
-      "title": "Customers Bancorp (NYSE:CUBI) and South Atlantic Bancshares (OTCMKTS:SABK) Head-To-Head Survey",
-      "description": "Customers Bancorp (NYSE:CUBI \u2013 Get Free Report) and South Atlantic Bancshares (OTCMKTS:SABK \u2013 Get Free Report) are both finance companies, but which is the superior investment? We will contrast the two businesses based on the strength of their dividends, risk, earnings, institutional ownership, profitability, valuation and analyst recommendations. Institutional & Insider Ownership 89.3% of Customers [...]",
+      "article_id": "176bf3c2f1b10f19cda3f28aea0c381b",
+      "link": "https://thewest.com.au/opinion/neryl-east-some-of-the-biggest-brands-sprinted-to-bottom-of-reputation-heap-in-2025-c-21122353",
+      "title": "Neryl East: Some of the biggest brands sprinted to bottom of reputation heap in 2025",
+      "description": "From the Optus triple-0 debacle to Qantas customer details on the dark web and Deloitte\u2019s AI petticoat exposed, 2025 had it all.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "comparison articles",
-        "stocks"
+        "opinion"
       ],
       "creator": [
-        "sarita garza"
+        "neryl east"
       ],
       "language": "english",
       "country": [
-        "united states of america"
+        "australia"
       ],
       "category": [
-        "business"
+        "top"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:44",
+      "pubDate": "2025-12-28 20:55:00",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:26:22",
-      "image_url": "https://www.marketbeat.com/logos/customers-bancorp-inc-logo-1200x675.jpg?v=20220510135759",
+      "fetched_at": "2025-12-28 21:13:09",
+      "image_url": "https://images.thewest.com.au/publication/C-21122353/1fae0e8723bd0ef67cc336f93cba850b2c8a82b1-16x9-x354y0w1900h1069.jpg",
       "video_url": null,
-      "source_id": "themarketsdaily",
-      "source_name": "Markets Daily",
-      "source_priority": 1319461,
-      "source_url": "https://www.themarketsdaily.com",
-      "source_icon": "https://n.bytvi.com/themarketsdaily.png",
+      "source_id": "thewest",
+      "source_name": "The West",
+      "source_priority": 106740,
+      "source_url": "https://thewest.com.au",
+      "source_icon": "https://n.bytvi.com/thewest.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -42,36 +41,36 @@
       "duplicate": false
     },
     {
-      "article_id": "17da2e2351c22463d7ae3d9f7b7accc8",
-      "link": "https://www.thelincolnianonline.com/2025/12/27/financial-contrast-trade-desk-nasdaqttd-vs-golden-energy-power-otcmktsigldf.html",
-      "title": "Financial Contrast: Trade Desk (NASDAQ:TTD) vs. Golden Energy Power (OTCMKTS:IGLDF)",
-      "description": "Trade Desk (NASDAQ:TTD \u2013 Get Free Report) and Golden Energy Power (OTCMKTS:IGLDF \u2013 Get Free Report) are both computer and technology companies, but which is the superior business? We will contrast the two businesses based on the strength of their institutional ownership, analyst recommendations, valuation, profitability, risk, dividends and earnings. Institutional and Insider Ownership 67.8% [...]",
+      "article_id": "099c0f6879662877d65472e333b6f03e",
+      "link": "https://hollywoodlife.com/feature/the-copenhagen-test-cast-5495773/",
+      "title": "\u2018The Copenhagen Test\u2019 Cast: Meet the Stars From Simu Liu to Melissa Barrera",
+      "description": "From breakout lead Simu Liu to scene-stealer Melissa Barrera, 'The Copenhagen Test' features a stacked cast bringing the high-stakes thriller to life.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "stocks",
-        "comparison articles"
+        "entertainment",
+        "tv"
       ],
       "creator": [
-        "dante gardener"
+        "vivian"
       ],
       "language": "english",
       "country": [
         "united states of america"
       ],
       "category": [
-        "business"
+        "entertainment"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
+      "pubDate": "2025-12-28 20:52:09",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:30:38",
-      "image_url": "https://www.marketbeat.com/logos/trade-desk-inc-logo-1200x675.jpg",
+      "fetched_at": "2025-12-28 21:01:06",
+      "image_url": "https://hollywoodlife.com/wp-content/uploads/2025/12/NUP_206580_00741-e1766950437304.jpg?fit=1000%2C565",
       "video_url": null,
-      "source_id": "thelincolnianonline",
-      "source_name": "The Lincolnian Online",
-      "source_priority": 5143682,
-      "source_url": "https://www.thelincolnianonline.com",
-      "source_icon": "https://n.bytvi.com/thelincolnianonline.png",
+      "source_id": "hollywoodlife",
+      "source_name": "Hollywood Life",
+      "source_priority": 977,
+      "source_url": "https://hollywoodlife.com",
+      "source_icon": "https://n.bytvi.com/hollywoodlife.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -81,36 +80,36 @@
       "duplicate": false
     },
     {
-      "article_id": "578ba1085df6f4bd8a893be139ce1b9a",
-      "link": "https://www.watchlistnews.com/reviewing-visa-nysev-and-paysign-nasdaqpays/10944365.html",
-      "title": "Reviewing Visa (NYSE:V) and Paysign (NASDAQ:PAYS)",
-      "description": "Paysign (NASDAQ:PAYS \u2013 Get Free Report) and Visa (NYSE:V \u2013 Get Free Report) are both business services companies, but which is the superior business? We will contrast the two companies based on the strength of their dividends, profitability, analyst recommendations, risk, valuation, institutional ownership and earnings. Analyst Recommendations This is a breakdown of recent recommendations [...]",
+      "article_id": "b9ca19d0135795e9517d24425ac01f1c",
+      "link": "https://www.ghanamma.com/2025/12/28/tech-guru-meetup-25-ignites-innovation-showcases-the-future-of-african-tech/",
+      "title": "Tech Guru meetup \u201925 ignites innovation; showcases the Future of African Tech",
+      "description": "The second edition of Tech Guru Meetup organised by Tech Hub Africa has been held in Accra. The event saw a convergence of Ghana\u2019s digital minds, united by a shared vision of innovation, collaboration, and impact. The meetup brought together students, seasoned professionals, startup founders, and investors, creating a vibrant space for high-value networking and [...]The post Tech Guru meetup \u201925 ignites innovation; showcases the Future of African Tech appeared first on Ghanamma.com.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "comparison articles",
-        "investing"
+        "local news"
       ],
       "creator": [
-        "hanz christensen"
+        "ghana news"
       ],
       "language": "english",
       "country": [
-        "united states of america"
+        "ghana"
       ],
       "category": [
-        "business"
+        "technology",
+        "top"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
+      "pubDate": "2025-12-28 20:51:46",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:24:33",
-      "image_url": "https://www.marketbeat.com/logos/paysign-inc-logo-1200x675.png?v=20240523122941",
+      "fetched_at": "2025-12-28 21:24:42",
+      "image_url": "https://citinewsroom.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-28-at-18.15.18.jpeg",
       "video_url": null,
-      "source_id": "watchlistnews",
-      "source_name": "Watch List News",
-      "source_priority": 927984,
-      "source_url": "https://www.watchlistnews.com",
-      "source_icon": "https://n.bytvi.com/watchlistnews.png",
+      "source_id": "ghanamma",
+      "source_name": "Ghanamma",
+      "source_priority": 1255021,
+      "source_url": "https://www.ghanamma.com",
+      "source_icon": "https://n.bytvi.com/ghanamma.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -120,36 +119,38 @@
       "duplicate": false
     },
     {
-      "article_id": "e6920df72e33ada904a528ce9d8a6695",
-      "link": "https://www.watchlistnews.com/reviewing-bright-mountain-media-otcmktsbmtm-and-eventbrite-nyseeb/10944367.html",
-      "title": "Reviewing Bright Mountain Media (OTCMKTS:BMTM) and Eventbrite (NYSE:EB)",
-      "description": "Bright Mountain Media (OTCMKTS:BMTM \u2013 Get Free Report) and Eventbrite (NYSE:EB \u2013 Get Free Report) are both small-cap computer and technology companies, but which is the better business? We will contrast the two businesses based on the strength of their analyst recommendations, dividends, profitability, risk, earnings, valuation and institutional ownership. Valuation and Earnings This table [...]",
+      "article_id": "47492b33addff45cb4ab28138cf29a3f",
+      "link": "https://www.cleveland.com/community/2025/12/is-your-childs-screen-affecting-their-sleep-the-hidden-cost-of-screens-in-the-bedroom.html",
+      "title": "Is your child\u2019s screen affecting their sleep? The hidden cost of screens in the bedroom",
+      "description": "Sleep, screens and students wellbeing. One local district leans in on how students can continue to thrive in an increasingly tech world.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "comparison articles",
-        "investing"
+        "screens-and-sleep",
+        "section:/community",
+        "rocky-river-city-schools"
       ],
       "creator": [
-        "kyle jackson"
+        "special to cleveland.com",
+        "kathleen barnard"
       ],
       "language": "english",
       "country": [
         "united states of america"
       ],
       "category": [
-        "business"
+        "top"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
+      "pubDate": "2025-12-28 20:51:16",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:24:32",
-      "image_url": "https://www.marketbeat.com/logos/bright-mountain-media-inc-logo-1200x675.png?v=20230113080855",
+      "fetched_at": "2025-12-28 21:12:52",
+      "image_url": "https://www.cleveland.com/resizer/v2/K7A4Z42LVBFPJJP7Q6WBBQTBGY.jpg?auth=8b7488df2720b73c5aa32a93f7b4a77daa709a6eb9cb2099feaa4ec3ff900e65&height=1200&smart=true",
       "video_url": null,
-      "source_id": "watchlistnews",
-      "source_name": "Watch List News",
-      "source_priority": 927984,
-      "source_url": "https://www.watchlistnews.com",
-      "source_icon": "https://n.bytvi.com/watchlistnews.png",
+      "source_id": "cleveland",
+      "source_name": "Cleveland",
+      "source_priority": 91827,
+      "source_url": "https://www.cleveland.com",
+      "source_icon": "https://n.bytvi.com/cleveland.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -159,75 +160,45 @@
       "duplicate": false
     },
     {
-      "article_id": "41023bc733f5199cf43d2429f673563e",
-      "link": "https://www.thelincolnianonline.com/2025/12/27/analyzing-first-solar-nasdaqfslr-toyo-nasdaqtoyo.html",
-      "title": "Analyzing First Solar (NASDAQ:FSLR) & TOYO (NASDAQ:TOYO)",
-      "description": "TOYO (NASDAQ:TOYO \u2013 Get Free Report) and First Solar (NASDAQ:FSLR \u2013 Get Free Report) are both energy companies, but which is the better stock? We will compare the two companies based on the strength of their institutional ownership, dividends, earnings, profitability, analyst recommendations, valuation and risk. Volatility & Risk TOYO has a beta of 0.77, [...]",
+      "article_id": "e5f31bd8340d924e845178d8f160788c",
+      "link": "https://www.bostonherald.com/2025/12/28/ticker-judge-oks-trumps-100k-visa/",
+      "title": "Ticker: Judge OKs Trump\u2019s $100K visa",
+      "description": "A federal judge said the Trump administration can move ahead with a $100,000 fee on new H-1B visa applications, providing a setback for U.S. technology companies that rely on hiring skilled foreign workers.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "stocks",
-        "comparison articles"
-      ],
-      "creator": [
-        "paula ricardo"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:30:37",
-      "image_url": "https://www.marketbeat.com/logos/toyo-co-ltd-logo-1200x675.png?v=20241212125554",
-      "video_url": null,
-      "source_id": "thelincolnianonline",
-      "source_name": "The Lincolnian Online",
-      "source_priority": 5143682,
-      "source_url": "https://www.thelincolnianonline.com",
-      "source_icon": "https://n.bytvi.com/thelincolnianonline.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "bc3989d7ce202985d8163d23b510c4b1",
-      "link": "https://www.thelincolnianonline.com/2025/12/27/head-to-head-analysis-becton-dickinson-and-company-nysebdx-and-avitar-otcmktsavti.html",
-      "title": "Head to Head Analysis: Becton, Dickinson and Company (NYSE:BDX) and Avitar (OTCMKTS:AVTI)",
-      "description": "Avitar (OTCMKTS:AVTI \u2013 Get Free Report) and Becton, Dickinson and Company (NYSE:BDX \u2013 Get Free Report) are both medical companies, but which is the superior stock? We will compare the two companies based on the strength of their risk, valuation, analyst recommendations, earnings, profitability, institutional ownership and dividends. Insider & Institutional Ownership 87.0% of Becton, [...]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "stocks",
-        "comparison articles"
-      ],
-      "creator": [
-        "caroline horne"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
+        "visas",
+        "amazon",
+        "business",
+        "apple",
+        "ticker",
+        "donald trump",
+        "news",
+        "latest headlines",
+        "meta",
+        "nation",
         "technology"
       ],
+      "creator": [
+        "boston herald wire services"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top"
+      ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
+      "pubDate": "2025-12-28 20:51:03",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:30:39",
-      "image_url": "https://www.marketbeat.com/logos/avitar-inc-logo-1200x675.png?v=20220929084723",
+      "fetched_at": "2025-12-28 21:07:20",
+      "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/09/BIZ-TRUMP-WORK-VISA-FEE-GET.jpg?strip=all&w=1400px",
       "video_url": null,
-      "source_id": "thelincolnianonline",
-      "source_name": "The Lincolnian Online",
-      "source_priority": 5143682,
-      "source_url": "https://www.thelincolnianonline.com",
-      "source_icon": "https://n.bytvi.com/thelincolnianonline.png",
+      "source_id": "bostonherald",
+      "source_name": "Boston Herald",
+      "source_priority": 9319,
+      "source_url": "https://www.bostonherald.com",
+      "source_icon": "https://n.bytvi.com/bostonherald.jpg",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -237,17 +208,101 @@
       "duplicate": false
     },
     {
-      "article_id": "9be86ad8a9b10edd0d274f0e6812d4e8",
-      "link": "https://baseballnewssource.com/2025/12/27/comparing-hayward-nysehayw-the-coretec-group-otcmktscrtg/10984552.html",
-      "title": "Comparing Hayward (NYSE:HAYW) & The Coretec Group (OTCMKTS:CRTG)",
-      "description": "The Coretec Group (OTCMKTS:CRTG \u2013 Get Free Report) and Hayward (NYSE:HAYW \u2013 Get Free Report) are both computer and technology companies, but which is the better stock? We will compare the two companies based on the strength of their institutional ownership, risk, valuation, analyst recommendations, earnings, dividends and profitability. Analyst Ratings This is a summary [...]",
+      "article_id": "f201039f2ae9be609df024ce3ed648c4",
+      "link": "https://timesofindia.indiatimes.com/city/ahmedabad/senior-doctors-felicitated-at-ima-natcon-2025/articleshow/126219073.cms",
+      "title": "Senior doctors felicitated at IMA NATCON 2025",
+      "description": null,
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "comparison articles",
-        "markets"
+        "medical conference",
+        "doctor felicitation",
+        "indian medical association",
+        "ima natcon 2025",
+        "health and wellness"
       ],
       "creator": [
-        "chris copeland"
+        "text size"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "lifestyle"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:51:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:04:44",
+      "image_url": "https://static.toiimg.com/thumb/msid-126219069,imgsize-55446,width-400,height-225,resizemode-72/senior-doctors-felicitated-at-ima-natcon-2025.jpg",
+      "video_url": null,
+      "source_id": "toi",
+      "source_name": "The Times Of India",
+      "source_priority": 2178,
+      "source_url": "https://timesofindia.indiatimes.com",
+      "source_icon": "https://n.bytvi.com/toi.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "da58fa24a875a18b82ab5eef085ded84",
+      "link": "https://www.wthr.com/article/syndication/associatedpress/bryant-knocks-off-worcester-state-95-59/616-1fc2d5bd-b462-4ced-aad8-b8b96aea3c6b",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "syndication",
+        "associatedpress"
+      ],
+      "creator": [
+        "the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:07:20",
+      "image_url": "https://assets.tegnaone.com/assets/AssociatedPress/images/40ce3ccf-b916-4c54-ae57-f7527c507143/20251228T211002/40ce3ccf-b916-4c54-ae57-f7527c507143.png",
+      "video_url": null,
+      "source_id": "wthr",
+      "source_name": "Wthr",
+      "source_priority": 22447,
+      "source_url": "https://www.wthr.com",
+      "source_icon": "https://n.bytvi.com/wthr.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "67f1297b8ce987f9b47c14338ea5a2a5",
+      "link": "https://kdhnews.com/sports/college/bryant-knocks-off-worcester-state-95-59/article_afec4f02-92b3-57ae-b893-6fbe0945f949.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
       ],
       "language": "english",
       "country": [
@@ -257,55 +312,646 @@
         "sports"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
+      "pubDate": "2025-12-28 20:48:26",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:26:52",
-      "image_url": "https://www.marketbeat.com/logos/the-coretec-group-inc-logo-1200x675.png?v=20230120143929",
+      "fetched_at": "2025-12-28 22:43:44",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
       "video_url": null,
-      "source_id": "baseballnewssource",
-      "source_name": "Bbns",
-      "source_priority": 1537232,
-      "source_url": "https://baseballnewssource.com",
-      "source_icon": "https://n.bytvi.com/baseballnewssource.png",
+      "source_id": "kdhnews",
+      "source_name": "Killeen Daily Herald",
+      "source_priority": 81501,
+      "source_url": "https://kdhnews.com",
+      "source_icon": "https://n.bytvi.com/kdhnews.jpg",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
+      "duplicate": true
     },
     {
-      "article_id": "8a850598b9ef3e9f365a1db6d1803f27",
-      "link": "https://www.dailypolitical.com/2025/12/27/atos-otcmktsaexay-science-applications-international-nasdaqsaic-critical-review.html",
-      "title": "Atos (OTCMKTS:AEXAY) & Science Applications International (NASDAQ:SAIC) Critical Review",
-      "description": "Science Applications International (NASDAQ:SAIC \u2013 Get Free Report) and Atos (OTCMKTS:AEXAY \u2013 Get Free Report) are both computer and technology companies, but which is the superior business? We will contrast the two businesses based on the strength of their valuation, profitability, institutional ownership, earnings, dividends, risk and analyst recommendations. Earnings & Valuation This table compares [...]",
+      "article_id": "95244ecad157df281431477fc76f06df",
+      "link": "https://www.timesargus.com/sports/pro_national_sports/bryant-knocks-off-worcester-state-95-59/article_d7631945-5659-595f-a7df-f9205cf8ca89.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "SMITHFIELD, R.I. (AP) \u2014 Keegan Harvey's 21 points helped Bryant defeat Worcester State 95-59 on Sunday.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "finance",
-        "comparison articles"
+        "pronational-sports",
+        "pro_national_sports",
+        "sports"
       ],
       "creator": [
-        "latisha jones"
+        "by the associated press"
       ],
       "language": "english",
       "country": [
         "united states of america"
       ],
       "category": [
-        "politics"
+        "sports"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-28 02:12:43",
+      "pubDate": "2025-12-28 20:48:26",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:26:00",
-      "image_url": "https://www.marketbeat.com/logos/science-applications-international-corporation-logo-1200x675.png?v=20250902162402",
+      "fetched_at": "2025-12-28 21:40:05",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/custom/image/b304aa08-5df8-11e8-b455-b382f4872e89.jpg?crop=435%2C435%2C0%2C53&order=crop%2Cresize&resize=200%2C200",
       "video_url": null,
-      "source_id": "dailypolitical",
-      "source_name": "Daily Political",
-      "source_priority": 1152138,
-      "source_url": "https://www.dailypolitical.com",
-      "source_icon": "https://n.bytvi.com/dailypolitical.png",
+      "source_id": "timesargus",
+      "source_name": "Times Argus",
+      "source_priority": 39116,
+      "source_url": "https://www.timesargus.com",
+      "source_icon": "https://n.bytvi.com/timesargus.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "0026b34721c79c4dc298cc199719daed",
+      "link": "https://www.dailyrecordnews.com/ap_news/sports/bryant-knocks-off-worcester-state-95-59/article_e4623921-c1b1-53e5-914b-7968d903331e.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "SMITHFIELD, R.I. (AP) \u2014 Keegan Harvey's 21 points helped Bryant defeat Worcester State 95-59 on Sunday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-29 04:42:03",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png?resize=600%2C315",
+      "video_url": null,
+      "source_id": "dailyrecordnews",
+      "source_name": "Dailyrecordnews",
+      "source_priority": 113511,
+      "source_url": "https://www.dailyrecordnews.com",
+      "source_icon": "https://n.bytvi.com/dailyrecordnews.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "31230270551eab6df3d13180f81957ff",
+      "link": "https://www.hjnews.com/sports/nation/bryant-knocks-off-worcester-state-95-59/article_f129c0ff-0d77-5603-bbed-10e71b61c9bc.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "SMITHFIELD, R.I. (AP) \u2014 Keegan Harvey's 21 points helped Bryant defeat Worcester State 95-59 on Sunday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-29 04:37:07",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/custom/image/01d65bdc-75bc-11e9-a6ea-4f05c88a4606.jpg?resize=600%2C354",
+      "video_url": null,
+      "source_id": "hjnews",
+      "source_name": "Hjnews",
+      "source_priority": 45110,
+      "source_url": "https://www.hjnews.com",
+      "source_icon": "https://n.bytvi.com/hjnews.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "a955028d56cb16b1a967f5aaa5375e54",
+      "link": "https://www.mankatofreepress.com/ap/sports/bryant-knocks-off-worcester-state-95-59/article_44843bb0-eb46-5806-9a09-87988b73c094.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:49:03",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg?resize=600%2C315",
+      "video_url": null,
+      "source_id": "mankatofreepress",
+      "source_name": "Mankato Free Press",
+      "source_priority": 1227111,
+      "source_url": "https://www.mankatofreepress.com",
+      "source_icon": "https://n.bytvi.com/mankatofreepress.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "9dc940f86413544f8d5a856e9ecb7431",
+      "link": "https://www.thewesterlysun.com/sports/state-sports/bryant-knocks-off-worcester-state-95-59/article_fa0db142-612a-5d39-bc40-d852cf03eb79.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "state-sports"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-29 01:35:34",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/thewesterlysun.com/content/tncms/custom/image/f5f0293e-7cd2-11ed-a4b8-df29b8856731.jpg?resize=200%2C200",
+      "video_url": null,
+      "source_id": "thewesterlysun",
+      "source_name": "The Westerly Sun",
+      "source_priority": 37744,
+      "source_url": "https://www.thewesterlysun.com",
+      "source_icon": "https://n.bytvi.com/thewesterlysun.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "ebcd953b72ee2fd09c0c708c8362ac6e",
+      "link": "https://www.kvue.com/article/syndication/associatedpress/bryant-knocks-off-worcester-state-95-59/616-1fc2d5bd-b462-4ced-aad8-b8b96aea3c6b",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "syndication",
+        "associatedpress"
+      ],
+      "creator": [
+        "the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:39:04",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "kvue",
+      "source_name": "Kvue",
+      "source_priority": 24029,
+      "source_url": "https://www.kvue.com",
+      "source_icon": "https://n.bytvi.com/kvue.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "e1a5594d71e9382c2426d2c972686778",
+      "link": "https://www.beloitdailynews.com/sports/pro-sports/bryant-knocks-off-worcester-state-95-59/article_36caa2cc-57fc-58e7-9449-aeb07fd898b3.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "SMITHFIELD, R.I. (AP) \u2014 Keegan Harvey's 21 points helped Bryant defeat Worcester State 95-59 on Sunday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:46:24",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/custom/image/c270922e-ebc4-11eb-8571-eb444426d521.png",
+      "video_url": null,
+      "source_id": "beloitdailynews",
+      "source_name": "Beloit Daily News",
+      "source_priority": 229353,
+      "source_url": "https://www.beloitdailynews.com",
+      "source_icon": "https://n.bytvi.com/beloitdailynews.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "92da4f14596705568ad3c1cab49ed7fb",
+      "link": "https://apnews.com/article/keegan-harvey-mens-college-basketball-college-sports-college-basketball-worcester-c23310daad264d76a597bee19e09affa",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "aaron davis",
+        "college sports",
+        "college basketball",
+        "massachusetts",
+        "men's college basketball",
+        "sports",
+        "rhode island",
+        "daniel wondie",
+        "keegan harvey",
+        "worcester",
+        "ethan daleba",
+        "johnny annan",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:30:42",
+      "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "video_url": null,
+      "source_id": "apnews",
+      "source_name": "Apnews",
+      "source_priority": 110,
+      "source_url": "https://apnews.com",
+      "source_icon": "https://n.bytvi.com/apnews.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "82cd89297ede4d8fddaa55988f74b91a",
+      "link": "https://www.wvnews.com/sports/pro/bryant-knocks-off-worcester-state-95-59/article_ac56cc0c-c07e-5049-a26c-b4de18d9c232.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "professional sports",
+        "free",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-29 01:46:03",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
+      "video_url": null,
+      "source_id": "wvnews",
+      "source_name": "Wv News",
+      "source_priority": 827114,
+      "source_url": "https://www.wvnews.com",
+      "source_icon": "https://n.bytvi.com/wvnews.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "44f807353718c18174ab198c366e7b9a",
+      "link": "https://www.rutlandherald.com/sports/pro_national_sports/bryant-knocks-off-worcester-state-95-59/article_7eac47e8-0e3e-590c-92d6-f931936ca72b.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "SMITHFIELD, R.I. (AP) \u2014 Keegan Harvey's 21 points helped Bryant defeat Worcester State 95-59 on Sunday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "pronational_sports",
+        "pro_national_sports",
+        "sports"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:39:19",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600",
+      "video_url": null,
+      "source_id": "rutlandherald",
+      "source_name": "Rutland Herald",
+      "source_priority": 27612,
+      "source_url": "https://www.rutlandherald.com",
+      "source_icon": "https://n.bytvi.com/rutlandherald.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "138dab2bddb7e955ac99bcf33018fd14",
+      "link": "https://www.postregister.com/sports/college/bryant-knocks-off-worcester-state-95-59/article_c8291db0-aa1b-5645-ab6c-eff6e121b7e2.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "SMITHFIELD, R.I. (AP) \u2014 Keegan Harvey's 21 points helped Bryant defeat Worcester State 95-59 on Sunday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college"
+      ],
+      "creator": [
+        "the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:42:47",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+      "video_url": null,
+      "source_id": "postregister",
+      "source_name": "Postregister",
+      "source_priority": 64968,
+      "source_url": "https://www.postregister.com",
+      "source_icon": "https://n.bytvi.com/postregister.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "2399efc7d9ea19f22725896f5d244ced",
+      "link": "https://lufkindailynews.com/anpa/sports/bryant-knocks-off-worcester-state-95-59/article_b0ae633d-0523-5dc9-9bd0-50ab4d99d7d6.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:45:21",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "lufkindailynews",
+      "source_name": "Lufkindailynews",
+      "source_priority": 149501,
+      "source_url": "https://lufkindailynews.com",
+      "source_icon": "https://n.bytvi.com/lufkindailynews.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "42c649951ee0ced9249a9e68a4406019",
+      "link": "https://www.dailysentinel.com/anpa/sports/bryant-knocks-off-worcester-state-95-59/article_6f724a35-b298-5c53-86e9-801151cedd3f.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "men's college basketball",
+        "college basketball",
+        "worcester state-bryant",
+        "sports",
+        "college sports"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:18:46",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/dailysentinel.com/content/tncms/custom/image/0e5981be-7e31-11e8-9106-4b58ceb21c54.jpg?resize=600%2C315",
+      "video_url": null,
+      "source_id": "dailysentinel",
+      "source_name": "Dailysentinel",
+      "source_priority": 391559,
+      "source_url": "https://www.dailysentinel.com",
+      "source_icon": "https://n.bytvi.com/dailysentinel.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "7d8477a4d63a9f638a519325fdf21903",
+      "link": "https://www.citizentribune.com/sports/national/bryant-knocks-off-worcester-state-95-59/article_d828d1d8-2fa0-53b8-9a9c-d5cf9b061306.html",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "description": "Led by Keegan Harvey's 21 points, the Bryant Bulldogs defeated the Worcester State Lancers 95-59 on Sunday. The Bulldogs are now 4-10 on the season.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "college basketball",
+        "college sports",
+        "sports",
+        "men's college basketball",
+        "worcester state-bryant"
+      ],
+      "creator": [
+        "by the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:48:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 22:41:16",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/custom/image/9e99fbb8-cc4a-11e6-91dc-0b1813f59513.jpg?resize=600%2C315",
+      "video_url": null,
+      "source_id": "citizentribune",
+      "source_name": "Citizentribune",
+      "source_priority": 47354,
+      "source_url": "https://www.citizentribune.com",
+      "source_icon": "https://n.bytvi.com/citizentribune.jpg",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "d47e6962b94ae5b9ce71708242253a9c",
+      "link": "https://www.ghanamma.com/2025/12/28/engineering-expert-applauds-mahamas-big-push-initiative-calls-for-stronger-safety-and-sustainability-measures/",
+      "title": "Engineering Expert Applauds Mahama\u2019s Big Push Initiative, Calls for Stronger Safety and Sustainability Measures",
+      "description": "A senior project engineering expert has commended the President of the Republic, His Excellency John Mahama, for the government\u2019s bold and transformative Big Push Initiative, particularly its unprecedented investment in nationwide road and infrastructure development. In a formal press statement dated December 26, 2025, Engr. Surv. Dr. Dr. Ebenezer Gyamera\u2014Southern Sector Chairman of the Institution [...]The post Engineering Expert Applauds Mahama\u2019s Big Push Initiative, Calls for Stronger Safety and Sustainability Measures appeared first on Ghanamma.com.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "business"
+      ],
+      "creator": [
+        "ghana news"
+      ],
+      "language": "english",
+      "country": [
+        "ghana"
+      ],
+      "category": [
+        "politics",
+        "top",
+        "environment"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:46:04",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:25:24",
+      "image_url": "https://cdn.modernghana.com/images/content/1228202591435-k5grj7u3h1-2025-12-28210311.jpg",
+      "video_url": null,
+      "source_id": "ghanamma",
+      "source_name": "Ghanamma",
+      "source_priority": 1255021,
+      "source_url": "https://www.ghanamma.com",
+      "source_icon": "https://n.bytvi.com/ghanamma.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -315,36 +961,33 @@
       "duplicate": false
     },
     {
-      "article_id": "cd45765472ff6005edc8aff8076cc5e7",
-      "link": "https://www.tickerreport.com/banking-finance/13302863/visa-nysev-paysign-nasdaqpays-head-to-head-comparison.html",
-      "title": "Visa (NYSE:V) & Paysign (NASDAQ:PAYS) Head to Head Comparison",
-      "description": "Paysign (NASDAQ:PAYS \u2013 Get Free Report) and Visa (NYSE:V \u2013 Get Free Report) are both business services companies, but which is the superior business? We will compare the two companies based on the strength of their analyst recommendations, earnings, risk, profitability, institutional ownership, dividends and valuation. Earnings and Valuation This table compares Paysign and Visa\u201ds [...]",
+      "article_id": "c1d95eaca124f4706c4769d7a7fb978b",
+      "link": "https://menafn.com/1110532716/Waste-To-Energy-Market-In-2029",
+      "title": "Waste To Energy Market In 2029",
+      "description": "(MENAFN - EIN Presswire) EINPresswire/ -- Waste To Energy Market to Surpass $55 billion in 2029. In comparison, the Power Generation market, which is considered as its parent market, is expected to ...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "banking",
-        "comparison articles"
-      ],
+      "keywords": null,
       "creator": [
-        "shane hupp"
+        "marketing@menafn.com (menafn)"
       ],
       "language": "english",
       "country": [
-        "united states of america"
+        "world"
       ],
       "category": [
         "business"
       ],
-      "datatype": "analysis",
-      "pubDate": "2025-12-28 02:12:42",
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:45:52",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:22:52",
-      "image_url": "https://www.marketbeat.com/logos/paysign-inc-logo-1200x675.png?v=20240523122941",
+      "fetched_at": "2025-12-29 02:08:11",
+      "image_url": null,
       "video_url": null,
-      "source_id": "tickerreport",
-      "source_name": "Ticker Report",
-      "source_priority": 571647,
-      "source_url": "https://www.tickerreport.com",
-      "source_icon": "https://n.bytvi.com/tickerreport.png",
+      "source_id": "menafn",
+      "source_name": "Menafn",
+      "source_priority": 28392,
+      "source_url": "https://menafn.com",
+      "source_icon": "https://n.bytvi.com/menafn.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -354,17 +997,140 @@
       "duplicate": false
     },
     {
-      "article_id": "26badcdbd4d0cff7fd053ad15cd5f603",
-      "link": "https://www.tickerreport.com/banking-finance/13302862/head-to-head-contrast-eventbrite-nyseeb-vs-bright-mountain-media-otcmktsbmtm.html",
-      "title": "Head-To-Head Contrast: Eventbrite (NYSE:EB) vs. Bright Mountain Media (OTCMKTS:BMTM)",
-      "description": "Eventbrite (NYSE:EB \u2013 Get Free Report) and Bright Mountain Media (OTCMKTS:BMTM \u2013 Get Free Report) are both small-cap computer and technology companies, but which is the superior investment? We will compare the two businesses based on the strength of their analyst recommendations, dividends, profitability, valuation, earnings, risk and institutional ownership. Insider and Institutional Ownership 91.6% [...]",
+      "article_id": "aa6886ee229bda6365d9f4be0d0932e1",
+      "link": "https://www.slashgear.com/2060174/diy-method-keep-mice-out-of-house-winter/",
+      "title": "The DIY Fix To Stop Mice From Invading Your Home This Winter",
+      "description": "Staying warm during the winter is very important, and the local rodents might want to get warm, too. What's a DIY way to keep them out of the house this winter?",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "banking",
-        "comparison articles"
+        "technology"
       ],
       "creator": [
-        "shane hupp"
+        "staff@slashgear.com (shane o'neill)"
+      ],
+      "language": "english",
+      "country": [
+        "singapore",
+        "united states of america",
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "environment"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:45:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:13:53",
+      "image_url": "https://www.slashgear.com/img/gallery/the-diy-fix-to-stop-mice-from-invading-your-home-this-winter/l-intro-1766585232.jpg",
+      "video_url": null,
+      "source_id": "slashgear",
+      "source_name": "Slashgear",
+      "source_priority": 105888,
+      "source_url": "https://www.slashgear.com",
+      "source_icon": "https://n.bytvi.com/slashgear.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d4f9fa9a2def5052e009d64928c51db9",
+      "link": "https://ijr.com/bernie-sanders-repeats-call-for-data-center-moratorium-in-pushback-against-oligarchs/",
+      "title": "Bernie Sanders Repeats Call For Data Center Moratorium In Pushback Against \u2018Oligarchs\u2019",
+      "description": "Independent Vermont Sen. Bernie Sanders repeated his call to halt artificial intelligence (AI) data center construction Sunday, proposing billionaires adopt certain left-wing policies.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "u.s. news",
+        "news",
+        "technology",
+        "dcnf",
+        "wire"
+      ],
+      "creator": [
+        "daily caller news foundation"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "technology",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:44:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:09:46",
+      "image_url": "https://ijr.com/wp-content/uploads/2025/12/bernie-sanders-repeats-call-for-data-center-moratorium-in-pushback-against-oligarchs-750x375.jpg",
+      "video_url": null,
+      "source_id": "ijr",
+      "source_name": "Ijr",
+      "source_priority": 52463,
+      "source_url": "https://ijr.com",
+      "source_icon": "https://n.bytvi.com/ijr.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5205c07dc7893a82945329df6a6d5c24",
+      "link": "https://www.openpr.com/news/4330380/ethereum-dbtc-defi-in-2026-daily-returns-of-8-000",
+      "title": "Ethereum + DBTC DeFi in 2026: Daily Returns of $8,000",
+      "description": "Ethereum's Role Continues to ExpandEthereum (ETH) remains one of the most influential blockchain networks in 2026, supporting decentralized applications, token ecosystems, and smart contract infrastructure. As the network evolves, users are increasingly seeking simplified ways to engage with Ethereum-related earning",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "business, economy, finances, banking & insurance"
+      ],
+      "creator": [
+        "sweetman financial planning limited"
+      ],
+      "language": "english",
+      "country": [
+        "germany"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:42:57",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:08:57",
+      "image_url": "https://cdn.open-pr.com/L/c/Lc28132679_g.jpg",
+      "video_url": null,
+      "source_id": "openpr",
+      "source_name": "Openpr.com",
+      "source_priority": 31972,
+      "source_url": "https://www.openpr.com",
+      "source_icon": "https://n.bytvi.com/openpr.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "58bf7871965d30e487f2e0b7840cef4e",
+      "link": "https://www.fool.com/coverage/filings/2025/12/28/why-a-new-usd3-million-bet-on-pathward-stock-signals-confidence-in-a-bank-posting-usd7-87-eps/",
+      "title": "Why a New $3 Million Bet on Pathward Stock Signals Confidence in a Bank Posting $7.87 EPS",
+      "description": "After a year of steady execution and profitability, Pathward is perhaps starting to look less like a niche lender and more like a quietly scalable earnings machine.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "5e4625bd-b89e-48d5-80cb-c5e1696e0235",
+        "coveragefilings",
+        "cash"
+      ],
+      "creator": [
+        "newsfeedback@fool.com (jonathan ponciano)"
       ],
       "language": "english",
       "country": [
@@ -373,17 +1139,95 @@
       "category": [
         "business"
       ],
-      "datatype": "analysis",
-      "pubDate": "2025-12-28 02:12:42",
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:42:54",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-28 02:22:54",
-      "image_url": "https://www.marketbeat.com/logos/eventbrite-inc-logo-1200x675.png",
+      "fetched_at": "2025-12-28 21:38:57",
+      "image_url": "https://g.foolcdn.com/image/?op=resize&url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F37a7f80f063688ddbd3b84d74a534e9e7a0367b6-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200",
       "video_url": null,
-      "source_id": "tickerreport",
-      "source_name": "Ticker Report",
-      "source_priority": 571647,
-      "source_url": "https://www.tickerreport.com",
-      "source_icon": "https://n.bytvi.com/tickerreport.png",
+      "source_id": "fool",
+      "source_name": "Fool",
+      "source_priority": 28963,
+      "source_url": "https://www.fool.com",
+      "source_icon": "https://n.bytvi.com/fool.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "eac3a88af95eb8e9793de3d4e56bb9dc",
+      "link": "https://nypost.com/2025/12/28/business/former-ibm-ceo-louis-gerstner-who-revitalized-big-blue-dead-at-83/",
+      "title": "Former IBM CEO Louis Gerstner, who revitalized \u2018Big Blue,\u2019 dead at 83",
+      "description": "Louis Gerstner, the former CEO and chairman of IBM, died on Saturday, aged 83.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ibm"
+      ],
+      "creator": [
+        "reuters"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:41:37",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:01:49",
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2025%2F12%2Flouis-v-gerstner-jr-new-117950396_102b41.jpg?quality%3D80%26strip%3Dall=",
+      "video_url": null,
+      "source_id": "nypost",
+      "source_name": "New York Post",
+      "source_priority": 643,
+      "source_url": "https://nypost.com",
+      "source_icon": "https://n.bytvi.com/nypost.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "949dda5aa5991d329ea01d2bc547166d",
+      "link": "https://www.thelincolnianonline.com/2025/12/28/deutsche-telekom-ag-otcmktsdtegy-sees-large-growth-in-short-interest.html",
+      "title": "Deutsche Telekom AG (OTCMKTS:DTEGY) Sees Large Growth in Short Interest",
+      "description": "Deutsche Telekom AG (OTCMKTS:DTEGY \u2013 Get Free Report) was the target of a significant increase in short interest during the month of December. As of December 15th, there was short interest totaling 360,829 shares, an increase of 98.5% from the November 30th total of 181,818 shares. Based on an average daily volume of 1,155,584 shares, [...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "options articles",
+        "stocks"
+      ],
+      "creator": [
+        "donna armstrong"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-28 20:40:45",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-28 21:28:52",
+      "image_url": "https://www.marketbeat.com/logos/deutsche-telekom-ag-logo-1200x675.png",
+      "video_url": null,
+      "source_id": "thelincolnianonline",
+      "source_name": "The Lincolnian Online",
+      "source_priority": 5143682,
+      "source_url": "https://www.thelincolnianonline.com",
+      "source_icon": "https://n.bytvi.com/thelincolnianonline.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -392,6 +1236,5 @@
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
     }
-  ],
-  "nextPage": "1766887962070889014"
+  ]
 }

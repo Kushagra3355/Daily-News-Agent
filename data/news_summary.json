@@ -1,105 +1,318 @@
 {
-  "total_articles": 10,
+  "total_articles": 30,
   "summaries": [
     {
-      "title": "Customers Bancorp (NYSE:CUBI) and South Atlantic Bancshares (OTCMKTS:SABK) Head-To-Head Survey",
-      "summary": "The article compares Customers Bancorp (CUBI) and South Atlantic Bancshares (SABK) as investment options, evaluating factors such as dividends, risk, earnings, institutional ownership, profitability, valuation, and analyst recommendations. It highlights that Customers Bancorp has a significant institutional and insider ownership of 89.3%, suggesting strong investor confidence. The analysis aims to determine which company presents a better investment opportunity.",
+      "title": "Neryl East: Some of the biggest brands sprinted to bottom of reputation heap in 2025",
+      "summary": "In 2025, several major brands faced significant reputational damage due to various scandals, including Optus's mishandling of emergency services, Qantas's customer data breach on the dark web, and Deloitte's controversial AI practices. These incidents contributed to a notable decline in public trust for these companies.",
       "category": [
-        "business"
+        "top"
       ],
-      "source": "Markets Daily",
-      "date": "2025-12-28 02:12:44",
-      "url": "https://www.themarketsdaily.com/2025/12/28/customers-bancorp-nysecubi-and-south-atlantic-bancshares-otcmktssabk-head-to-head-survey.html"
+      "source": "The West",
+      "date": "2025-12-28 20:55:00",
+      "url": "https://thewest.com.au/opinion/neryl-east-some-of-the-biggest-brands-sprinted-to-bottom-of-reputation-heap-in-2025-c-21122353"
     },
     {
-      "title": "Financial Contrast: Trade Desk (NASDAQ:TTD) vs. Golden Energy Power (OTCMKTS:IGLDF)",
-      "summary": "The article compares Trade Desk (NASDAQ:TTD) and Golden Energy Power (OTCMKTS:IGLDF), focusing on various financial metrics such as institutional ownership, analyst recommendations, valuation, profitability, risk, dividends, and earnings. It aims to determine which of the two technology companies is superior based on these factors.",
+      "title": "\u2018The Copenhagen Test\u2019 Cast: Meet the Stars From Simu Liu to Melissa Barrera",
+      "summary": "The article highlights the cast of the high-stakes thriller \"The Copenhagen Test,\" featuring breakout lead Simu Liu and scene-stealer Melissa Barrera among other talented actors. The ensemble is noted for their ability to bring the film's intense narrative to life.",
       "category": [
-        "business"
+        "entertainment"
       ],
-      "source": "The Lincolnian Online",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://www.thelincolnianonline.com/2025/12/27/financial-contrast-trade-desk-nasdaqttd-vs-golden-energy-power-otcmktsigldf.html"
+      "source": "Hollywood Life",
+      "date": "2025-12-28 20:52:09",
+      "url": "https://hollywoodlife.com/feature/the-copenhagen-test-cast-5495773/"
     },
     {
-      "title": "Reviewing Visa (NYSE:V) and Paysign (NASDAQ:PAYS)",
-      "summary": "The article compares Visa (NYSE:V) and Paysign (NASDAQ:PAYS) as business services companies, evaluating them on various factors including dividends, profitability, analyst recommendations, risk, valuation, institutional ownership, and earnings. It aims to determine which company is superior based on these criteria.",
+      "title": "Tech Guru meetup \u201925 ignites innovation; showcases the Future of African Tech",
+      "summary": "The second edition of the Tech Guru Meetup, organized by Tech Hub Africa, took place in Accra, bringing together Ghana's digital community, including students, professionals, startup founders, and investors. The event focused on fostering innovation, collaboration, and networking, highlighting the future of technology in Africa.",
       "category": [
-        "business"
+        "technology",
+        "top"
       ],
-      "source": "Watch List News",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://www.watchlistnews.com/reviewing-visa-nysev-and-paysign-nasdaqpays/10944365.html"
+      "source": "Ghanamma",
+      "date": "2025-12-28 20:51:46",
+      "url": "https://www.ghanamma.com/2025/12/28/tech-guru-meetup-25-ignites-innovation-showcases-the-future-of-african-tech/"
     },
     {
-      "title": "Reviewing Bright Mountain Media (OTCMKTS:BMTM) and Eventbrite (NYSE:EB)",
-      "summary": "The article compares Bright Mountain Media (OTCMKTS:BMTM) and Eventbrite (NYSE:EB), two small-cap technology companies, evaluating them on various factors such as analyst recommendations, dividends, profitability, risk, earnings, valuation, and institutional ownership. The analysis aims to determine which company presents a better investment opportunity.",
+      "title": "Is your child\u2019s screen affecting their sleep? The hidden cost of screens in the bedroom",
+      "summary": "The article discusses the impact of screens on children's sleep and overall well-being, highlighting concerns within a local school district. It emphasizes the need for strategies to help students thrive in a technology-driven environment while addressing the hidden costs of screen use in the bedroom.",
       "category": [
-        "business"
+        "top"
       ],
-      "source": "Watch List News",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://www.watchlistnews.com/reviewing-bright-mountain-media-otcmktsbmtm-and-eventbrite-nyseeb/10944367.html"
+      "source": "Cleveland",
+      "date": "2025-12-28 20:51:16",
+      "url": "https://www.cleveland.com/community/2025/12/is-your-childs-screen-affecting-their-sleep-the-hidden-cost-of-screens-in-the-bedroom.html"
     },
     {
-      "title": "Analyzing First Solar (NASDAQ:FSLR) & TOYO (NASDAQ:TOYO)",
-      "summary": "The article compares two energy companies, First Solar (NASDAQ:FSLR) and TOYO (NASDAQ:TOYO), evaluating them on various factors such as institutional ownership, dividends, earnings, profitability, analyst recommendations, valuation, and risk. It highlights TOYO's lower volatility with a beta of 0.77, suggesting a detailed analysis to determine which stock may be the better investment.",
+      "title": "Ticker: Judge OKs Trump\u2019s $100K visa",
+      "summary": "A federal judge has approved the Trump administration's implementation of a $100,000 fee on new H-1B visa applications. This decision poses a challenge for U.S. technology companies that depend on hiring skilled foreign workers.",
       "category": [
-        "business"
+        "top"
       ],
-      "source": "The Lincolnian Online",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://www.thelincolnianonline.com/2025/12/27/analyzing-first-solar-nasdaqfslr-toyo-nasdaqtoyo.html"
+      "source": "Boston Herald",
+      "date": "2025-12-28 20:51:03",
+      "url": "https://www.bostonherald.com/2025/12/28/ticker-judge-oks-trumps-100k-visa/"
     },
     {
-      "title": "Head to Head Analysis: Becton, Dickinson and Company (NYSE:BDX) and Avitar (OTCMKTS:AVTI)",
-      "summary": "The article compares Becton, Dickinson and Company (NYSE: BDX) and Avitar (OTCMKTS: AVTI) as medical stocks, evaluating them on various factors including risk, valuation, analyst recommendations, earnings, profitability, institutional ownership, and dividends. Becton, Dickinson shows a strong institutional ownership at 87%, suggesting a more robust market position compared to Avitar.",
+      "title": "Senior doctors felicitated at IMA NATCON 2025",
+      "summary": "Senior doctors were honored at the IMA NATCON 2025 event, recognizing their contributions to the medical field. The event celebrated their achievements and dedication to healthcare, highlighting the importance of their work in improving patient outcomes and advancing medical practices.",
       "category": [
-        "technology"
+        "lifestyle"
       ],
-      "source": "The Lincolnian Online",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://www.thelincolnianonline.com/2025/12/27/head-to-head-analysis-becton-dickinson-and-company-nysebdx-and-avitar-otcmktsavti.html"
+      "source": "The Times Of India",
+      "date": "2025-12-28 20:51:00",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/senior-doctors-felicitated-at-ima-natcon-2025/articleshow/126219073.cms"
     },
     {
-      "title": "Comparing Hayward (NYSE:HAYW) & The Coretec Group (OTCMKTS:CRTG)",
-      "summary": "The article compares two technology companies, Hayward (NYSE:HAYW) and The Coretec Group (OTCMKTS:CRTG), evaluating them on various factors such as institutional ownership, risk, valuation, analyst recommendations, earnings, dividends, and profitability. It aims to determine which stock may be the better investment option based on these criteria.",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings Bryant's season record to 4-10.",
+      "category": [
+        "world"
+      ],
+      "source": "Wthr",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.wthr.com/article/syndication/associatedpress/bryant-knocks-off-worcester-state-95-59/616-1fc2d5bd-b462-4ced-aad8-b8b96aea3c6b"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
       "category": [
         "sports"
       ],
-      "source": "Bbns",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://baseballnewssource.com/2025/12/27/comparing-hayward-nysehayw-the-coretec-group-otcmktscrtg/10984552.html"
+      "source": "Killeen Daily Herald",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://kdhnews.com/sports/college/bryant-knocks-off-worcester-state-95-59/article_afec4f02-92b3-57ae-b893-6fbe0945f949.html"
     },
     {
-      "title": "Atos (OTCMKTS:AEXAY) & Science Applications International (NASDAQ:SAIC) Critical Review",
-      "summary": "The article compares Atos (OTCMKTS:AEXAY) and Science Applications International (NASDAQ:SAIC), two technology companies, evaluating their strengths in valuation, profitability, institutional ownership, earnings, dividends, risk, and analyst recommendations. It aims to determine which company is superior based on these critical financial metrics.",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
       "category": [
-        "politics"
+        "sports"
       ],
-      "source": "Daily Political",
-      "date": "2025-12-28 02:12:43",
-      "url": "https://www.dailypolitical.com/2025/12/27/atos-otcmktsaexay-science-applications-international-nasdaqsaic-critical-review.html"
+      "source": "Times Argus",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.timesargus.com/sports/pro_national_sports/bryant-knocks-off-worcester-state-95-59/article_d7631945-5659-595f-a7df-f9205cf8ca89.html"
     },
     {
-      "title": "Visa (NYSE:V) & Paysign (NASDAQ:PAYS) Head to Head Comparison",
-      "summary": "The article compares Visa (NYSE:V) and Paysign (NASDAQ:PAYS) as business services companies, evaluating them on various factors including analyst recommendations, earnings, risk, profitability, institutional ownership, dividends, and valuation. The analysis aims to determine which company is superior based on these metrics.",
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Dailyrecordnews",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.dailyrecordnews.com/ap_news/sports/bryant-knocks-off-worcester-state-95-59/article_e4623921-c1b1-53e5-914b-7968d903331e.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "category": [
+        "sports"
+      ],
+      "source": "Hjnews",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.hjnews.com/sports/nation/bryant-knocks-off-worcester-state-95-59/article_f129c0ff-0d77-5603-bbed-10e71b61c9bc.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports"
+      ],
+      "source": "Mankato Free Press",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.mankatofreepress.com/ap/sports/bryant-knocks-off-worcester-state-95-59/article_44843bb0-eb46-5806-9a09-87988b73c094.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "The Westerly Sun",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.thewesterlysun.com/sports/state-sports/bryant-knocks-off-worcester-state-95-59/article_fa0db142-612a-5d39-bc40-d852cf03eb79.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Kvue",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.kvue.com/article/syndication/associatedpress/bryant-knocks-off-worcester-state-95-59/616-1fc2d5bd-b462-4ced-aad8-b8b96aea3c6b"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Beloit Daily News",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.beloitdailynews.com/sports/pro-sports/bryant-knocks-off-worcester-state-95-59/article_36caa2cc-57fc-58e7-9449-aeb07fd898b3.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Apnews",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://apnews.com/article/keegan-harvey-mens-college-basketball-college-sports-college-basketball-worcester-c23310daad264d76a597bee19e09affa"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win improves Bryant's record to 4-10 for the season.",
+      "category": [
+        "sports"
+      ],
+      "source": "Wv News",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.wvnews.com/sports/pro/bryant-knocks-off-worcester-state-95-59/article_ac56cc0c-c07e-5049-a26c-b4de18d9c232.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "category": [
+        "sports"
+      ],
+      "source": "Rutland Herald",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.rutlandherald.com/sports/pro_national_sports/bryant-knocks-off-worcester-state-95-59/article_7eac47e8-0e3e-590c-92d6-f931936ca72b.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Postregister",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.postregister.com/sports/college/bryant-knocks-off-worcester-state-95-59/article_c8291db0-aa1b-5645-ab6c-eff6e121b7e2.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Lufkindailynews",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://lufkindailynews.com/anpa/sports/bryant-knocks-off-worcester-state-95-59/article_b0ae633d-0523-5dc9-9bd0-50ab4d99d7d6.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports"
+      ],
+      "source": "Dailysentinel",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.dailysentinel.com/anpa/sports/bryant-knocks-off-worcester-state-95-59/article_6f724a35-b298-5c53-86e9-801151cedd3f.html"
+    },
+    {
+      "title": "Bryant knocks off Worcester State 95-59",
+      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "category": [
+        "sports"
+      ],
+      "source": "Citizentribune",
+      "date": "2025-12-28 20:48:26",
+      "url": "https://www.citizentribune.com/sports/national/bryant-knocks-off-worcester-state-95-59/article_d828d1d8-2fa0-53b8-9a9c-d5cf9b061306.html"
+    },
+    {
+      "title": "Engineering Expert Applauds Mahama\u2019s Big Push Initiative, Calls for Stronger Safety and Sustainability Measures",
+      "summary": "A senior engineering expert, Engr. Surv. Dr. Ebenezer Gyamera, has praised President John Mahama for the Big Push Initiative, highlighting its significant investment in road and infrastructure development across the nation. In a press statement, he emphasized the need for enhanced safety and sustainability measures to accompany these transformative projects.",
+      "category": [
+        "politics",
+        "top",
+        "environment"
+      ],
+      "source": "Ghanamma",
+      "date": "2025-12-28 20:46:04",
+      "url": "https://www.ghanamma.com/2025/12/28/engineering-expert-applauds-mahamas-big-push-initiative-calls-for-stronger-safety-and-sustainability-measures/"
+    },
+    {
+      "title": "Waste To Energy Market In 2029",
+      "summary": "The Waste to Energy market is projected to exceed $55 billion by 2029, highlighting significant growth in this sector. In comparison, the Power Generation market, which encompasses Waste to Energy, is also expected to expand during the same period.",
       "category": [
         "business"
       ],
-      "source": "Ticker Report",
-      "date": "2025-12-28 02:12:42",
-      "url": "https://www.tickerreport.com/banking-finance/13302863/visa-nysev-paysign-nasdaqpays-head-to-head-comparison.html"
+      "source": "Menafn",
+      "date": "2025-12-28 20:45:52",
+      "url": "https://menafn.com/1110532716/Waste-To-Energy-Market-In-2029"
     },
     {
-      "title": "Head-To-Head Contrast: Eventbrite (NYSE:EB) vs. Bright Mountain Media (OTCMKTS:BMTM)",
-      "summary": "The article compares Eventbrite (NYSE:EB) and Bright Mountain Media (OTCMKTS:BMTM), two small-cap technology companies, to determine which is the better investment. It evaluates various factors including analyst recommendations, dividends, profitability, valuation, earnings, risk, and institutional ownership, highlighting that Eventbrite has a significant insider and institutional ownership of 91.6%.",
+      "title": "The DIY Fix To Stop Mice From Invading Your Home This Winter",
+      "summary": "As winter approaches, mice seek warmth in homes, prompting the need for effective DIY solutions to prevent their invasion. The article suggests various methods to seal entry points and deter rodents, ensuring a cozy and pest-free environment during the colder months.",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "source": "Slashgear",
+      "date": "2025-12-28 20:45:00",
+      "url": "https://www.slashgear.com/2060174/diy-method-keep-mice-out-of-house-winter/"
+    },
+    {
+      "title": "Bernie Sanders Repeats Call For Data Center Moratorium In Pushback Against \u2018Oligarchs\u2019",
+      "summary": "Senator Bernie Sanders has reiterated his demand for a moratorium on the construction of AI data centers, criticizing billionaires for their influence and urging them to adopt progressive policies. His comments reflect ongoing concerns about the impact of AI and the concentration of wealth among the elite.",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "source": "Ijr",
+      "date": "2025-12-28 20:44:18",
+      "url": "https://ijr.com/bernie-sanders-repeats-call-for-data-center-moratorium-in-pushback-against-oligarchs/"
+    },
+    {
+      "title": "Ethereum + DBTC DeFi in 2026: Daily Returns of $8,000",
+      "summary": "In 2026, Ethereum (ETH) continues to play a pivotal role in the blockchain landscape, facilitating decentralized applications and smart contracts. As the network evolves, users are looking for easier methods to earn from Ethereum, with potential daily returns reaching $8,000 through decentralized finance (DeFi) strategies.",
       "category": [
         "business"
       ],
-      "source": "Ticker Report",
-      "date": "2025-12-28 02:12:42",
-      "url": "https://www.tickerreport.com/banking-finance/13302862/head-to-head-contrast-eventbrite-nyseeb-vs-bright-mountain-media-otcmktsbmtm.html"
+      "source": "Openpr.com",
+      "date": "2025-12-28 20:42:57",
+      "url": "https://www.openpr.com/news/4330380/ethereum-dbtc-defi-in-2026-daily-returns-of-8-000"
+    },
+    {
+      "title": "Why a New $3 Million Bet on Pathward Stock Signals Confidence in a Bank Posting $7.87 EPS",
+      "summary": "Pathward has attracted a new $3 million investment, signaling growing confidence in the bank's performance, which reported an impressive $7.87 EPS. Following a year of consistent execution and profitability, Pathward is evolving from a niche lender to a scalable earnings powerhouse.",
+      "category": [
+        "business"
+      ],
+      "source": "Fool",
+      "date": "2025-12-28 20:42:54",
+      "url": "https://www.fool.com/coverage/filings/2025/12/28/why-a-new-usd3-million-bet-on-pathward-stock-signals-confidence-in-a-bank-posting-usd7-87-eps/"
+    },
+    {
+      "title": "Former IBM CEO Louis Gerstner, who revitalized \u2018Big Blue,\u2019 dead at 83",
+      "summary": "Louis Gerstner, the former CEO and chairman of IBM, passed away at the age of 83 on Saturday. He is remembered for revitalizing the company during his tenure, significantly transforming its operations and culture.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "source": "New York Post",
+      "date": "2025-12-28 20:41:37",
+      "url": "https://nypost.com/2025/12/28/business/former-ibm-ceo-louis-gerstner-who-revitalized-big-blue-dead-at-83/"
+    },
+    {
+      "title": "Deutsche Telekom AG (OTCMKTS:DTEGY) Sees Large Growth in Short Interest",
+      "summary": "Deutsche Telekom AG (OTCMKTS:DTEGY) experienced a substantial rise in short interest in December, with a total of 360,829 shares shorted as of December 15, marking a 98.5% increase from 181,818 shares on November 30. This surge occurred against an average daily trading volume of 1,155,584 shares.",
+      "category": [
+        "business"
+      ],
+      "source": "The Lincolnian Online",
+      "date": "2025-12-28 20:40:45",
+      "url": "https://www.thelincolnianonline.com/2025/12/28/deutsche-telekom-ag-otcmktsdtegy-sees-large-growth-in-short-interest.html"
     }
   ]
 }
