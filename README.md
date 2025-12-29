@@ -18,16 +18,18 @@ Daily News Agent/
 │   └── summerizer_agent.py    # AI summarization agent
 ├── app/
 │   ├── config.py              # Configuration and environment variables
-│   └── dependencies.py        # LLM initialization
+│   ├── dependencies.py        # LLM initialization
+│   └── main.py                # Main application entry point
 ├── data/
-│   ├── news_response.json     # Raw news data from API
-│   └── news_summary.json      # AI-generated summaries
+│   ├── news_response.json     # Raw news data from API (generated)
+│   └── news_summary.json      # AI-generated summaries (generated)
 ├── test/
-│   └── agent_test.py          # Main execution script
-│   └── news_api_test.py       #Checks and loads the news 
+│   ├── agent_test.py          # Test script for agent functionality
+│   └── news_api_test.py       # Test script for news API
 ├── utils/
-│   ├── fetcher.py             # Utility functions for news fetching
-│   └── preprocessing.py       # Data preprocessing utilities
+│   ├── fetcher.py             # News fetching with pagination (up to 3 pages)
+│   ├── preprocessing.py       # Data preprocessing utilities
+│   └── scheduler.py           # Job scheduler for daily news pipeline
 ├── requirements.txt           # Project dependencies
 └── .env                       # Environment variables (not in repo)
 ```
