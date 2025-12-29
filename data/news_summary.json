@@ -2,317 +2,318 @@
   "total_articles": 30,
   "summaries": [
     {
-      "title": "Neryl East: Some of the biggest brands sprinted to bottom of reputation heap in 2025",
-      "summary": "In 2025, several major brands faced significant reputational damage due to various scandals, including Optus's mishandling of emergency services, Qantas's customer data breach on the dark web, and Deloitte's controversial AI practices. These incidents contributed to a notable decline in public trust for these companies.",
+      "title": "Acorn Group honoured for HR excellence in Hospitality, Tourism and Leisure sector",
+      "summary": "Acorn Group has been awarded for HR excellence in the Hospitality, Tourism, and Leisure sector at The Great HR Awards, organized by the Chartered Institute of Personnel Management (CIPM) Sri Lanka in partnership with Mercer. This recognition underscores the Group's dedication to progressive and people-centric human resource management practices.",
       "category": [
-        "top"
+        "politics"
       ],
-      "source": "The West",
-      "date": "2025-12-28 20:55:00",
-      "url": "https://thewest.com.au/opinion/neryl-east-some-of-the-biggest-brands-sprinted-to-bottom-of-reputation-heap-in-2025-c-21122353"
+      "source": "Daily Ft",
+      "date": "2025-12-28 22:38:00",
+      "url": "https://www.ft.lk/travel-tourism/Acorn-Group-honoured-for-HR-excellence-in-Hospitality--Tourism-and-Leisure-sector/27-786171"
     },
     {
-      "title": "\u2018The Copenhagen Test\u2019 Cast: Meet the Stars From Simu Liu to Melissa Barrera",
-      "summary": "The article highlights the cast of the high-stakes thriller \"The Copenhagen Test,\" featuring breakout lead Simu Liu and scene-stealer Melissa Barrera among other talented actors. The ensemble is noted for their ability to bring the film's intense narrative to life.",
-      "category": [
-        "entertainment"
-      ],
-      "source": "Hollywood Life",
-      "date": "2025-12-28 20:52:09",
-      "url": "https://hollywoodlife.com/feature/the-copenhagen-test-cast-5495773/"
-    },
-    {
-      "title": "Tech Guru meetup \u201925 ignites innovation; showcases the Future of African Tech",
-      "summary": "The second edition of the Tech Guru Meetup, organized by Tech Hub Africa, took place in Accra, bringing together Ghana's digital community, including students, professionals, startup founders, and investors. The event focused on fostering innovation, collaboration, and networking, highlighting the future of technology in Africa.",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "source": "Ghanamma",
-      "date": "2025-12-28 20:51:46",
-      "url": "https://www.ghanamma.com/2025/12/28/tech-guru-meetup-25-ignites-innovation-showcases-the-future-of-african-tech/"
-    },
-    {
-      "title": "Is your child\u2019s screen affecting their sleep? The hidden cost of screens in the bedroom",
-      "summary": "The article discusses the impact of screens on children's sleep and overall well-being, highlighting concerns within a local school district. It emphasizes the need for strategies to help students thrive in a technology-driven environment while addressing the hidden costs of screen use in the bedroom.",
-      "category": [
-        "top"
-      ],
-      "source": "Cleveland",
-      "date": "2025-12-28 20:51:16",
-      "url": "https://www.cleveland.com/community/2025/12/is-your-childs-screen-affecting-their-sleep-the-hidden-cost-of-screens-in-the-bedroom.html"
-    },
-    {
-      "title": "Ticker: Judge OKs Trump\u2019s $100K visa",
-      "summary": "A federal judge has approved the Trump administration's implementation of a $100,000 fee on new H-1B visa applications. This decision poses a challenge for U.S. technology companies that depend on hiring skilled foreign workers.",
-      "category": [
-        "top"
-      ],
-      "source": "Boston Herald",
-      "date": "2025-12-28 20:51:03",
-      "url": "https://www.bostonherald.com/2025/12/28/ticker-judge-oks-trumps-100k-visa/"
-    },
-    {
-      "title": "Senior doctors felicitated at IMA NATCON 2025",
-      "summary": "Senior doctors were honored at the IMA NATCON 2025 event, recognizing their contributions to the medical field. The event celebrated their achievements and dedication to healthcare, highlighting the importance of their work in improving patient outcomes and advancing medical practices.",
-      "category": [
-        "lifestyle"
-      ],
-      "source": "The Times Of India",
-      "date": "2025-12-28 20:51:00",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/senior-doctors-felicitated-at-ima-natcon-2025/articleshow/126219073.cms"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings Bryant's season record to 4-10.",
-      "category": [
-        "world"
-      ],
-      "source": "Wthr",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.wthr.com/article/syndication/associatedpress/bryant-knocks-off-worcester-state-95-59/616-1fc2d5bd-b462-4ced-aad8-b8b96aea3c6b"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
-      "category": [
-        "sports"
-      ],
-      "source": "Killeen Daily Herald",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://kdhnews.com/sports/college/bryant-knocks-off-worcester-state-95-59/article_afec4f02-92b3-57ae-b893-6fbe0945f949.html"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
-      "category": [
-        "sports"
-      ],
-      "source": "Times Argus",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.timesargus.com/sports/pro_national_sports/bryant-knocks-off-worcester-state-95-59/article_d7631945-5659-595f-a7df-f9205cf8ca89.html"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "source": "Dailyrecordnews",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.dailyrecordnews.com/ap_news/sports/bryant-knocks-off-worcester-state-95-59/article_e4623921-c1b1-53e5-914b-7968d903331e.html"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
-      "category": [
-        "sports"
-      ],
-      "source": "Hjnews",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.hjnews.com/sports/nation/bryant-knocks-off-worcester-state-95-59/article_f129c0ff-0d77-5603-bbed-10e71b61c9bc.html"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
-      "category": [
-        "sports"
-      ],
-      "source": "Mankato Free Press",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.mankatofreepress.com/ap/sports/bryant-knocks-off-worcester-state-95-59/article_44843bb0-eb46-5806-9a09-87988b73c094.html"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "source": "The Westerly Sun",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.thewesterlysun.com/sports/state-sports/bryant-knocks-off-worcester-state-95-59/article_fa0db142-612a-5d39-bc40-d852cf03eb79.html"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "source": "Kvue",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.kvue.com/article/syndication/associatedpress/bryant-knocks-off-worcester-state-95-59/616-1fc2d5bd-b462-4ced-aad8-b8b96aea3c6b"
-    },
-    {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "title": "Brown's 15 lead Saint Louis over Division-III Principia 114-33",
+      "summary": "Dion Brown scored 15 points as Saint Louis dominated Division-III Principia with a decisive 114-33 victory on Sunday. The win showcased Saint Louis' strong performance throughout the game.",
       "category": [
         "sports",
         "top"
       ],
       "source": "Beloit Daily News",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.beloitdailynews.com/sports/pro-sports/bryant-knocks-off-worcester-state-95-59/article_36caa2cc-57fc-58e7-9449-aeb07fd898b3.html"
+      "date": "2025-12-28 22:37:52",
+      "url": "https://www.beloitdailynews.com/sports/pro-sports/browns-15-lead-saint-louis-over-division-iii-principia-114-33/article_c4d8ccde-ec91-515c-9d0a-d576c2021e72.html"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "title": "Brown's 15 lead Saint Louis over Division-III Principia 114-33",
+      "summary": "The Saint Louis Billikens triumphed over Division-III Principia Panthers with a commanding score of 114-33, led by Dion Brown's 15 points. Kellen Thames contributed with 14 points and 11 rebounds, while Caleb White was the top scorer for Principia with 10 points. The victory improved the Billikens' record to 12-1.",
+      "category": [
+        "sports"
+      ],
+      "source": "Wv News",
+      "date": "2025-12-28 22:37:52",
+      "url": "https://www.wvnews.com/sports/pro/browns-15-lead-saint-louis-over-division-iii-principia-114-33/article_2d9f08a5-a7c7-56e0-aedf-a0a49b8c95b5.html"
+    },
+    {
+      "title": "Brown's 15 lead Saint Louis over Division-III Principia 114-33",
+      "summary": "The Saint Louis Billikens, led by Dion Brown's 15 points, dominated the Division-III Principia Panthers with a score of 114-33. Kellen Thames contributed with 14 points and 11 rebounds, while Caleb White was the top scorer for Principia with 10 points. The victory improved the Billikens' record to 12-1.",
+      "category": [
+        "sports"
+      ],
+      "source": "Dailygazette.com",
+      "date": "2025-12-28 22:37:52",
+      "url": "https://www.dailygazette.com/ap/sports/browns-15-lead-saint-louis-over-division-iii-principia-114-33/article_659b60d6-688e-5030-807a-fb9112cc72b7.html"
+    },
+    {
+      "title": "Brown's 15 lead Saint Louis over Division-III Principia 114-33",
+      "summary": "The Saint Louis Billikens triumphed over Division-III Principia Panthers with a commanding score of 114-33, led by Dion Brown's 15 points. Kellen Thames contributed with 14 points and 11 rebounds, while Caleb White was the top scorer for Principia with 10 points. The victory improved the Billikens' record to 12-1.",
+      "category": [
+        "sports"
+      ],
+      "source": "Mankato Free Press",
+      "date": "2025-12-28 22:37:52",
+      "url": "https://www.mankatofreepress.com/ap/sports/browns-15-lead-saint-louis-over-division-iii-principia-114-33/article_8ef13b21-8177-55a6-9171-ef03a01d0e2e.html"
+    },
+    {
+      "title": "Brown's 15 lead Saint Louis over Division-III Principia 114-33",
+      "summary": "The Saint Louis Billikens triumphed over Division-III Principia Panthers with a commanding score of 114-33, led by Dion Brown's 15 points. Kellen Thames contributed with 14 points and 11 rebounds, while Caleb White was the top scorer for Principia with 10 points. The victory improved Saint Louis's record to 12-1 for the season.",
       "category": [
         "sports",
         "top"
       ],
       "source": "Apnews",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://apnews.com/article/keegan-harvey-mens-college-basketball-college-sports-college-basketball-worcester-c23310daad264d76a597bee19e09affa"
+      "date": "2025-12-28 22:37:52",
+      "url": "https://apnews.com/article/dion-brown-caleb-white-kellen-thames-saint-louis-billikens-st-louis-fcd7177f2fce487bbc49d087740e29e4"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win improves Bryant's record to 4-10 for the season.",
+      "title": "Brown's 15 lead Saint Louis over Division-III Principia 114-33",
+      "summary": "Dion Brown scored 15 points as Saint Louis dominated Division-III Principia with a decisive 114-33 victory on Sunday. The win showcased Saint Louis' strong performance throughout the game.",
       "category": [
         "sports"
       ],
-      "source": "Wv News",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.wvnews.com/sports/pro/bryant-knocks-off-worcester-state-95-59/article_ac56cc0c-c07e-5049-a26c-b4de18d9c232.html"
+      "source": "Postregister",
+      "date": "2025-12-28 22:37:52",
+      "url": "https://www.postregister.com/sports/college/browns-15-lead-saint-louis-over-division-iii-principia-114-33/article_aa5aae7f-5fa5-536c-9749-0d2dd4568e3f.html"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "title": "City manager: Fort Worth\u2019s economic growth continues to look strong",
+      "summary": "Fort Worth City Manager Jay Chapa highlighted the city's robust economic growth during a panel discussion on December 16, 2025. He emphasized the positive outlook for the project pipeline in 2026, indicating continued development and investment in the area.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "source": "Fort Worth Report",
+      "date": "2025-12-28 22:37:34",
+      "url": "https://fortworthreport.org/2025/12/28/city-manager-fort-worths-economic-growth-continues-to-look-strong/"
+    },
+    {
+      "title": "Ghana\u2019s Evans Kyere-Mensah nominated to World Agriculture Forum Council",
+      "summary": "Ghanaian agriculture expert Evans Kyere-Mensah has been nominated to the World Agriculture Forum (WAF) Council, a global platform aimed at influencing the future of agriculture. The nomination was announced in a letter from Michelle Dennis, the WAF's Director of Communications, dated December 3, 2025.",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "source": "Ghanamma",
+      "date": "2025-12-28 22:37:26",
+      "url": "https://www.ghanamma.com/2025/12/28/ghanas-evans-kyere-mensah-nominated-to-world-agriculture-forum-council/"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida in Jacksonville, Florida, with Kenny Noland leading the team by scoring 27 points.",
       "category": [
         "sports"
       ],
-      "source": "Rutland Herald",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.rutlandherald.com/sports/pro_national_sports/bryant-knocks-off-worcester-state-95-59/article_7eac47e8-0e3e-590c-92d6-f931936ca72b.html"
+      "source": "Yahoo! News",
+      "date": "2025-12-28 22:37:26",
+      "url": "https://ca.sports.yahoo.com/news/columbia-wins-90-82-over-223726437.html"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "Bryant University secured a decisive 95-59 victory over Worcester State, with Keegan Harvey leading the team by scoring 21 points. The game took place in Smithfield, Rhode Island.",
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida, led by Kenny Noland's impressive 27 points, shooting 9 of 15 overall and 4 of 7 from beyond the arc. Miles Franklin contributed 19 points and seven rebounds for the Lions, improving their record to 10-3.",
+      "category": [
+        "breaking"
+      ],
+      "source": "The Lethbridge Herald",
+      "date": "2025-12-28 22:37:26",
+      "url": "https://lethbridgeherald.com/sports/national-sports/2025/12/28/columbia-wins-90-82-over-north-florida/"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida, led by Kenny Noland's impressive performance, scoring 27 points. Noland shot 9 of 15 from the field, including 4 for 7 from beyond the arc, contributing significantly to the win.",
       "category": [
         "sports",
         "top"
       ],
-      "source": "Postregister",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.postregister.com/sports/college/bryant-knocks-off-worcester-state-95-59/article_c8291db0-aa1b-5645-ab6c-eff6e121b7e2.html"
+      "source": "Winnipeg Free Press",
+      "date": "2025-12-28 22:37:26",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2025/12/28/columbia-wins-90-82-over-north-florida"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida, led by Kenny Noland's impressive 27 points, shooting 9 of 15 overall and 4 of 7 from beyond the arc. Miles Franklin contributed 19 points and seven rebounds for the Lions, improving their record to 10-3.",
+      "category": [
+        "breaking"
+      ],
+      "source": "Medicine Hat News",
+      "date": "2025-12-28 22:37:26",
+      "url": "https://medicinehatnews.com/sports/national-sports/2025/12/28/columbia-wins-90-82-over-north-florida/"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida in Jacksonville, Florida, with Kenny Noland leading the team by scoring 27 points.",
+      "category": [
+        "sports"
+      ],
+      "source": "The Star",
+      "date": "2025-12-28 22:37:26",
+      "url": "https://www.thestar.com/sports/basketball/columbia-wins-90-82-over-north-florida/article_82ae7ebd-37aa-5aac-96a9-0d92fef4f931.html"
+    },
+    {
+      "title": "China expands nuclear warhead manufacturing capacity, research finds",
+      "summary": "China is significantly increasing its nuclear warhead manufacturing capacity, as revealed by an analysis of satellite imagery. The country is modernizing a network of secret facilities to produce warhead components, leading to a faster expansion of its nuclear stockpile than any other nation.",
+      "category": [
+        "top"
+      ],
+      "source": "The Boston Globe",
+      "date": "2025-12-28 22:36:27",
+      "url": "https://www.bostonglobe.com/2025/12/28/world/china-expands-nuclear-warhead-manufacturing-capacity-research-finds/"
+    },
+    {
+      "title": "This Mini-ITX motherboard with four DDR5 slots could end up as rival to Nvidia's Petaflop AI mini PC",
+      "summary": "Maxsun has introduced the MS-PC Farm 88601 Mini-ITX motherboard, which features four DDR5 slots, PCIe 5.0 expansion, and advanced power delivery. This motherboard is designed for high-performance computing and includes remote management capabilities, positioning it as a potential competitor to Nvidia's Petaflop AI mini PC.",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "source": "Tech Radar",
+      "date": "2025-12-28 22:35:00",
+      "url": "https://www.techradar.com/pro/this-mini-itx-motherboard-with-four-ddr5-slots-could-end-up-as-rival-to-nvidias-petaflop-ai-mini-pc"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida in Jacksonville, Florida, with Kenny Noland leading the team by scoring 27 points.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "News-gazette",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.news-gazette.com/columbia-wins-90-82-over-north-florida/article_3449822d-6e1b-5d1c-8d9b-cf7dc3140398.html"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "The Columbia Lions triumphed over the North Florida Ospreys with a score of 90-82, thanks to Kenny Noland's impressive 27 points. Miles Franklin contributed 19 points and seven rebounds for Columbia, while Kamrin Oriol and Kent Jackson led North Florida with 24 and 18 points, respectively.",
+      "category": [
+        "sports"
+      ],
+      "source": "Wv News",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.wvnews.com/sports/pro/columbia-wins-90-82-over-north-florida/article_cd6fcc77-840c-572e-be9d-bd429492c90a.html"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "The Columbia Lions triumphed over the North Florida Ospreys with a score of 90-82, thanks to Kenny Noland's impressive 27 points. Miles Franklin contributed 19 points and seven rebounds for Columbia, while Kamrin Oriol and Kent Jackson led North Florida with 24 and 18 points, respectively.",
+      "category": [
+        "sports"
+      ],
+      "source": "Mankato Free Press",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.mankatofreepress.com/ap/sports/columbia-wins-90-82-over-north-florida/article_a511461a-fd19-5947-a9fb-23b9bb05570d.html"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "The Columbia Lions secured a 90-82 victory over the North Florida Ospreys, with Kenny Noland leading the team with 27 points. Miles Franklin contributed 19 points and seven rebounds. Kamrin Oriol scored 24 points for North Florida, while Kent Jackson added 18. With this win, Columbia improved to 10-3, while North Florida suffered its sixth consecutive loss, dropping to 2-11.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Apnews",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://apnews.com/article/kenny-noland-miles-franklin-kent-jackson-florida-columbia-38cb57818e5447fb9966c0d4efdf2561"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "The Columbia Lions triumphed over the North Florida Ospreys with a score of 90-82, thanks to Kenny Noland's impressive 27 points. Miles Franklin contributed 19 points and seven rebounds for Columbia, while Kamrin Oriol and Kent Jackson led North Florida with 24 and 18 points, respectively.",
+      "category": [
+        "sports"
+      ],
+      "source": "Dailysentinel",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.dailysentinel.com/anpa/sports/columbia-wins-90-82-over-north-florida/article_5bb4716b-eb43-5240-b005-12a0252ab29d.html"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida in Jacksonville, Florida, with Kenny Noland leading the team by scoring 27 points.",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "source": "Beloit Daily News",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.beloitdailynews.com/sports/pro-sports/columbia-wins-90-82-over-north-florida/article_04b2695b-fa29-599d-be81-bb831004f580.html"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "Columbia secured a 90-82 victory over North Florida in Jacksonville, Florida, with Kenny Noland leading the team by scoring 27 points.",
+      "category": [
+        "sports"
+      ],
+      "source": "Postregister",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.postregister.com/sports/college/columbia-wins-90-82-over-north-florida/article_0ec26397-6a48-5cac-8b14-15edd27f68b3.html"
+    },
+    {
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "The Columbia Lions triumphed over the North Florida Ospreys with a score of 90-82, thanks to Kenny Noland's impressive 27 points. Miles Franklin contributed 19 points and seven rebounds for Columbia, while Kamrin Oriol led North Florida with 24 points and Kent Jackson added 18.",
       "category": [
         "sports",
         "top"
       ],
       "source": "Lufkindailynews",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://lufkindailynews.com/anpa/sports/bryant-knocks-off-worcester-state-95-59/article_b0ae633d-0523-5dc9-9bd0-50ab4d99d7d6.html"
+      "date": "2025-12-28 22:33:12",
+      "url": "https://lufkindailynews.com/anpa/sports/columbia-wins-90-82-over-north-florida/article_32f6ee34-6743-5adc-800d-a2c228e2764f.html"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
+      "title": "Columbia wins 90-82 over North Florida",
+      "summary": "The Columbia Lions triumphed over the North Florida Ospreys with a score of 90-82, thanks to Kenny Noland's impressive 27 points. Miles Franklin contributed 19 points and seven rebounds for Columbia, while Kamrin Oriol led North Florida with 24 points and Kent Jackson added 18.",
       "category": [
         "sports"
       ],
-      "source": "Dailysentinel",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.dailysentinel.com/anpa/sports/bryant-knocks-off-worcester-state-95-59/article_6f724a35-b298-5c53-86e9-801151cedd3f.html"
+      "source": "Dailygazette.com",
+      "date": "2025-12-28 22:33:12",
+      "url": "https://www.dailygazette.com/ap/sports/columbia-wins-90-82-over-north-florida/article_bee99fdb-f53b-5818-b5b0-b58ef0b4c705.html"
     },
     {
-      "title": "Bryant knocks off Worcester State 95-59",
-      "summary": "The Bryant Bulldogs secured a decisive 95-59 victory over the Worcester State Lancers, with Keegan Harvey leading the team with 21 points. This win brings the Bulldogs' season record to 4-10.",
-      "category": [
-        "sports"
-      ],
-      "source": "Citizentribune",
-      "date": "2025-12-28 20:48:26",
-      "url": "https://www.citizentribune.com/sports/national/bryant-knocks-off-worcester-state-95-59/article_d828d1d8-2fa0-53b8-9a9c-d5cf9b061306.html"
-    },
-    {
-      "title": "Engineering Expert Applauds Mahama\u2019s Big Push Initiative, Calls for Stronger Safety and Sustainability Measures",
-      "summary": "A senior engineering expert, Engr. Surv. Dr. Ebenezer Gyamera, has praised President John Mahama for the Big Push Initiative, highlighting its significant investment in road and infrastructure development across the nation. In a press statement, he emphasized the need for enhanced safety and sustainability measures to accompany these transformative projects.",
-      "category": [
-        "politics",
-        "top",
-        "environment"
-      ],
-      "source": "Ghanamma",
-      "date": "2025-12-28 20:46:04",
-      "url": "https://www.ghanamma.com/2025/12/28/engineering-expert-applauds-mahamas-big-push-initiative-calls-for-stronger-safety-and-sustainability-measures/"
-    },
-    {
-      "title": "Waste To Energy Market In 2029",
-      "summary": "The Waste to Energy market is projected to exceed $55 billion by 2029, highlighting significant growth in this sector. In comparison, the Power Generation market, which encompasses Waste to Energy, is also expected to expand during the same period.",
-      "category": [
-        "business"
-      ],
-      "source": "Menafn",
-      "date": "2025-12-28 20:45:52",
-      "url": "https://menafn.com/1110532716/Waste-To-Energy-Market-In-2029"
-    },
-    {
-      "title": "The DIY Fix To Stop Mice From Invading Your Home This Winter",
-      "summary": "As winter approaches, mice seek warmth in homes, prompting the need for effective DIY solutions to prevent their invasion. The article suggests various methods to seal entry points and deter rodents, ensuring a cozy and pest-free environment during the colder months.",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "source": "Slashgear",
-      "date": "2025-12-28 20:45:00",
-      "url": "https://www.slashgear.com/2060174/diy-method-keep-mice-out-of-house-winter/"
-    },
-    {
-      "title": "Bernie Sanders Repeats Call For Data Center Moratorium In Pushback Against \u2018Oligarchs\u2019",
-      "summary": "Senator Bernie Sanders has reiterated his demand for a moratorium on the construction of AI data centers, criticizing billionaires for their influence and urging them to adopt progressive policies. His comments reflect ongoing concerns about the impact of AI and the concentration of wealth among the elite.",
+      "title": "The moon and sun figure big in 2026's lineup of cosmic wonders",
+      "summary": "In 2026, the moon and sun will feature prominently in a series of cosmic events, including the first astronaut visit to the moon in over 50 years and multiple lunar landings by robotic missions, including Jeff Bezos' Blue Moon. The year will also see significant solar eclipses, with a total solar eclipse in August and a ring-of-fire eclipse in February. Additionally, three supermoons and a planetary parade will captivate skywatchers, while increased solar activity may lead to more auroras on Earth.",
       "category": [
         "technology",
         "top"
       ],
-      "source": "Ijr",
-      "date": "2025-12-28 20:44:18",
-      "url": "https://ijr.com/bernie-sanders-repeats-call-for-data-center-moratorium-in-pushback-against-oligarchs/"
+      "source": "Nbc 4 New York",
+      "date": "2025-12-28 22:32:32",
+      "url": "https://www.nbcnewyork.com/news/national-international/moon-sun-2026-cosmic-wonders/6436324/"
     },
     {
-      "title": "Ethereum + DBTC DeFi in 2026: Daily Returns of $8,000",
-      "summary": "In 2026, Ethereum (ETH) continues to play a pivotal role in the blockchain landscape, facilitating decentralized applications and smart contracts. As the network evolves, users are looking for easier methods to earn from Ethereum, with potential daily returns reaching $8,000 through decentralized finance (DeFi) strategies.",
+      "title": "The moon and sun figure big in 2026's lineup of cosmic wonders",
+      "summary": "In 2026, the moon and sun will dominate astronomical events, with the first crewed lunar mission in over 50 years and multiple robotic landings, including Jeff Bezos' Blue Moon. Notable celestial events include a ring-of-fire eclipse in February and a total solar eclipse in August. Additionally, three supermoons and a planetary parade featuring six planets will captivate skywatchers, while increased solar activity may enhance auroras on Earth.",
       "category": [
-        "business"
+        "technology",
+        "top"
       ],
-      "source": "Openpr.com",
-      "date": "2025-12-28 20:42:57",
-      "url": "https://www.openpr.com/news/4330380/ethereum-dbtc-defi-in-2026-daily-returns-of-8-000"
+      "source": "Nbc10 Philadelphia",
+      "date": "2025-12-28 22:32:32",
+      "url": "https://www.nbcphiladelphia.com/news/national-international/moon-sun-2026-cosmic-wonders/4324054/"
     },
     {
-      "title": "Why a New $3 Million Bet on Pathward Stock Signals Confidence in a Bank Posting $7.87 EPS",
-      "summary": "Pathward has attracted a new $3 million investment, signaling growing confidence in the bank's performance, which reported an impressive $7.87 EPS. Following a year of consistent execution and profitability, Pathward is evolving from a niche lender to a scalable earnings powerhouse.",
+      "title": "Global Times: Overseas Audiences Experience The Charm Of Entertainment Products Imbued With Eastern Artistry",
+      "summary": "The article discusses how Chinese entertainment products, including music, short dramas, and games, are set to reach global audiences by 2025, showcasing Eastern artistry and creating an immersive cultural experience. This initiative aims to promote a \"Cool China\" image internationally, highlighting the growing influence of Chinese culture in the global entertainment landscape.",
       "category": [
-        "business"
+        "entertainment"
       ],
-      "source": "Fool",
-      "date": "2025-12-28 20:42:54",
-      "url": "https://www.fool.com/coverage/filings/2025/12/28/why-a-new-usd3-million-bet-on-pathward-stock-signals-confidence-in-a-bank-posting-usd7-87-eps/"
+      "source": "Menafn",
+      "date": "2025-12-28 22:31:10",
+      "url": "https://menafn.com/1110532803/Global-Times-Overseas-Audiences-Experience-The-Charm-Of-Entertainment-Products-Imbued-With-Eastern-Artistry"
     },
     {
-      "title": "Former IBM CEO Louis Gerstner, who revitalized \u2018Big Blue,\u2019 dead at 83",
-      "summary": "Louis Gerstner, the former CEO and chairman of IBM, passed away at the age of 83 on Saturday. He is remembered for revitalizing the company during his tenure, significantly transforming its operations and culture.",
+      "title": "Global Times: China's First Nuclear Medicine Demonstration Base Launches In Suzhou",
+      "summary": "China has launched its first nuclear medicine demonstration base in Suzhou, established by the China National Nuclear Corporation (CNNC). This initiative aims to enhance clinical applications, foster innovation, and integrate the nuclear medicine industry chain.",
       "category": [
-        "top",
-        "business"
+        "science",
+        "top"
       ],
-      "source": "New York Post",
-      "date": "2025-12-28 20:41:37",
-      "url": "https://nypost.com/2025/12/28/business/former-ibm-ceo-louis-gerstner-who-revitalized-big-blue-dead-at-83/"
+      "source": "Menafn",
+      "date": "2025-12-28 22:31:10",
+      "url": "https://menafn.com/1110532805/Global-Times-Chinas-First-Nuclear-Medicine-Demonstration-Base-Launches-In-Suzhou"
     },
     {
-      "title": "Deutsche Telekom AG (OTCMKTS:DTEGY) Sees Large Growth in Short Interest",
-      "summary": "Deutsche Telekom AG (OTCMKTS:DTEGY) experienced a substantial rise in short interest in December, with a total of 360,829 shares shorted as of December 15, marking a 98.5% increase from 181,818 shares on November 30. This surge occurred against an average daily trading volume of 1,155,584 shares.",
+      "title": "Global Times: American Vlogger Discovers How A Self-Reliant China Warms People's Lives With Cutting-Edge Tech",
+      "summary": "An American vlogger highlights China's focus on technological self-reliance as outlined in its 15th Five-Year Plan, showcasing advancements in AI and robotics that enhance daily life. The report emphasizes how these innovations contribute to a more trustworthy future for the world.",
       "category": [
-        "business"
+        "technology",
+        "top"
       ],
-      "source": "The Lincolnian Online",
-      "date": "2025-12-28 20:40:45",
-      "url": "https://www.thelincolnianonline.com/2025/12/28/deutsche-telekom-ag-otcmktsdtegy-sees-large-growth-in-short-interest.html"
+      "source": "Menafn",
+      "date": "2025-12-28 22:31:10",
+      "url": "https://menafn.com/1110532804/Global-Times-American-Vlogger-Discovers-How-A-Self-Reliant-China-Warms-Peoples-Lives-With-Cutting-Edge-Tech"
     }
   ]
 }
