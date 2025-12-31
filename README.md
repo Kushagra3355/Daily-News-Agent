@@ -4,6 +4,8 @@ Live Demo: https://daily-news-summarizer-agent.streamlit.app/
 
 An intelligent news aggregation and summarization system powered by OpenAI. This project fetches news from newsdata.io API and generates AI-powered summaries for each article.
 
+[Pending tasks: Database, auto refresh news data within x-minutes, disable the refresh news option from user.]
+
 ## Features
 
 - **News Fetching**: Automatically fetches the latest technology news from NewsData.io API with pagination support
@@ -119,7 +121,7 @@ Modify parameters in `utils/fetcher.py`:
 
 Adjust in `utils/preprocessing.py`:
 
-- **Limit**: Number of articles to process (default: 5)
+- **Limit**: Number of articles to process 
 
 ## Usage
 
