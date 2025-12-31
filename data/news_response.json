@@ -1,21 +1,70 @@
 {
   "status": "ok",
-  "totalResults": 30,
+  "totalResults": 20,
   "results": [
     {
-      "article_id": "e95fb5e655c248e90277c7b192e8e70d",
-      "link": "https://www.siasat.com/delhis-air-quality-severe-dense-smog-affects-vehicular-movement-3317832/",
-      "title": "Delhi\u2019s air quality \u2018severe\u2019, dense smog affects vehicular movement",
-      "description": "New Delhi: Delhi choked under a thick blanket of smog on Monday morning, with the average Air Quality Index (AQI) settling in the \u2018severe\u2019 category at 402. The air quality was \u2018severe\u2019 at 22 stations, \u2018very poor\u2019 at 14 and poor at one station. While Vivek Vihar in East Delhi recorded an AQI of 456, ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+      "article_id": "5a79b5611e784bcaa3e8ddf9e77ffab7",
+      "link": "https://en.news4social.com/need-more-space-on-your-iphone-adjust-these-settings-now/",
+      "title": "Need More Space on Your iPhone? Adjust These Settings Now",
+      "description": "Need More Space on Your iPhone? Adjust These Settings Now It\u2019s easier than ever to capture the moments that matter with your iPhone, from meeting up with family over the holidays to ringing in the New Year with friends and loved ones. While your phone certainly started with plenty of space, over time it gets [...]",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "delhi",
-        "air quality",
-        "india",
-        "temperatures"
+        "mobile new",
+        "iphone",
+        "settings",
+        "latest news of mobile",
+        "technology",
+        "mobile new latest",
+        "latest mobile news",
+        "space",
+        "adjust",
+        "news on phone",
+        "latest mobiles news"
       ],
       "creator": [
-        "more \u00bb"
+        "gadgets smartphone gaming"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:30:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 08:00:49",
+      "image_url": "https://i0.wp.com/www.cnet.com/a/img/resize/bc1017f876be9cab8ec84bf6deae050b7bb23ddc/hub/2022/04/19/01bef208-a82b-4199-8b7e-1700766fe4ab/gettyimages-1090899154.jpg?auto=webp&fit=crop&height=675&resize=750%2C375&ssl=1&w=750&width=1200",
+      "video_url": null,
+      "source_id": "news4social",
+      "source_name": "News4social",
+      "source_priority": 10742357,
+      "source_url": "https://en.news4social.com",
+      "source_icon": "https://n.bytvi.com/news4social.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "9931fd9e8c766b7c7744af0b7bded0ce",
+      "link": "https://www.siasat.com/revanth-reddy-plans-to-make-greater-hyderabad-pollution-free-3318729/",
+      "title": "Revanth Reddy plans to make Greater Hyderabad pollution-free",
+      "description": "Hyderabad: Telangana Chief Minister A. Revanth Reddy on Tuesday directed officials to prepare an action plan to develop Greater Hyderabad as a pollution-free city. At a review with senior officials of Municipal Administration and Urban Development, and also newly appointed Zonal Commissioners, he emphasised that effective measures should be taken to maintain cleanliness and garbage ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "revanth reddy",
+        "hyderabad",
+        "pollution",
+        "top stories"
+      ],
+      "creator": [
+        "indo-asian news service"
       ],
       "language": "english",
       "country": [
@@ -26,10 +75,10 @@
         "environment"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:17:18",
+      "pubDate": "2025-12-31 02:29:55",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:38:41",
-      "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/12/Delhi-Air-.jpg",
+      "fetched_at": "2025-12-31 02:39:53",
+      "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/12/CM-Revanth-Reddy.jpg",
       "video_url": null,
       "source_id": "siasat",
       "source_name": "Siasat.com",
@@ -42,146 +91,77 @@
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
+      "duplicate": false
     },
     {
-      "article_id": "8d8bb2728b9f569dcc637f13b30a048f",
-      "link": "https://www.siasat.com/stock-markets-gather-momentum-after-muted-beginning-3317823/",
-      "title": "Stock markets gather momentum after muted beginning",
-      "description": "Mumbai: Stock market benchmark indices Sensex and Nifty eked out marginal gains in early trade on Monday but later picked up momentum, tracking a firm trend in Asian peers and sustained buying by domestic institutional investors. The 30-share BSE Sensex went up by 22.24 points to 85,063.69 in early trade. The 50-share NSE Nifty eked ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+      "article_id": "87b268c7a0e153af528e636962cfb793",
+      "link": "https://www.brecorder.com/news/40399907/opinion-leadership-imperatives-for-2026",
+      "title": "OPINION: Leadership imperatives for 2026",
+      "description": "2025 was a year of leadership expose\u0301. A year of revelations. A testing year. A year of stress. A year of burnout.An overwhelming year. It has been quite a year. In any testing time, as they say, the mettle of leadership is exposed.Unfortunately, in many cases leaders all across the world were found wanting. Some glossy names were tarnished.Some established names were toppled. Corporate corridors witnessed scams and stealth stories. Those who seemed steady were also struggling with the pressures of an economy far from vibrant and boardrooms that were relentless. This led to low morale, low productivity and results that were either made up or lackluster.In my leadership coaching interactions many leaders complained about \u201cunrealistic expectation\u201d, \u201cunconducive conditions\u201d and \u201cunending struggles\u201d to motivate employees.Numbers tell the story. The Leadership Development statistics published in Exec magazine on 18th December 2025 highlight the growing gap. 77 percent of organizations lack sufficient leadership dept. This leadership deficit is across all levels, ranging from frontline managers to executives. This deficit is influencing business agility and succession planning in various sectors.Without capable senior leaders in place, organisations struggle to adapt and stay competitive. Trust in managers dropped from 46 percent to 29 percent in just two years (2022-2024). 71 percent of Millennials are warning that they will leave within 3 years if leadership development is lacking. 53 percent of Gen Z are unhappy with their leaders. These are staggering numbers. These are wakeup calls. These underline the leadership fault lines. These highlight the disconnect between what needs to be done and what was done in 2025. Those who are led are unhappy with the way they are led and those who are leading are also feeling the heat. 71 percent of leaders have experienced significantly higher stress levels since stepping into leadership, and 63 percent report suffering from burnout.If we keep on going at this rate 2026 may see more organizational disasters. Time to learn from 2025 and rethink leadership as we enter 2026.Based on my experience of working with the top leaders, organizations and leaders need to work on 4 leadership imperatives:Leadership I mperative#1-Reset your mind\u2019s eye-\u201cThe eyes are useless when the mind is blind\u201d. 2025 Leadership mind was set to see the obvious. Economies crunching, industries squeezing and companies retrenching.Could these realities be ignored. Absolutely not. These realities are facts that need to be taken into account. Could the strategies to cope with these realities have been different\u201d?Absolutely yes. But for that, the mindset had to be different. As we go in 2026 the leader\u2019s mind needs to see the gaps as opportunities. When the mind is set to see numbers dropping, the logical solution is to fix the numbers. That means cutting costs, layoffs, shutdowns, etc.While these are all strategies that yield immediate improvement in the financial health of the company, they may not help in real growth. The leader has to say, \u201cFine if these products or markets are not doing well, yes we may do product pruning, but what else can we do that will spur growth?\u201d Get your teams together. Ask them the simple question, if we want to grow when others are reducing, what do you think will work? As the pharmaceutical industry saw many drugs being ousted from the market, one pharmaceutical firm saw blockbuster results. They got the team to spell out the gaps. They focused on the obesity and diabetes awareness on social media.Revenues rose sharply driven by high demand for its new diabetes and obesity drugs, making it the world\u2019s most valuable healthcare company.Leadership Imperative#2-Re-align with the purpose- \u201cWhen you align with your purpose the whole universe aligns with you.\u201d A Gen Z working for a top company recently remarked to me \u201cpurpose, what purpose? The only purpose we know is that the organizations will skin us to death for every penny that they can make additionally.\u201d If there is one aspect where most leaders default is to first of all connect themselves to the purpose of the organization and then align others to it. Purpose or mission is just a statement made for websites.Nobody remembers it, leave aside use it to motivate and create alignment. In the DDI Leadership Study of 2025, frontline leaders experienced a 20 percent decline in their sense of purpose compared to 2020.Leaders underestimate the power of a higher purpose to keep people going. If you tell people to achieve a 25 percent higher target, they feel stressed and demotivated. If you tell people, let us ensure that 25 percent more people\u2019s lives can be saved by the new cardio devise, they actually may feel good about contributing to a higher cause. 2026 should be a leadership purpose disseminator year. DDI study says that workers are 17X more likely to feel energized by their work if they feel that they are working for a higher purpose.Leadership imperative#3-Reconnect to the human domain-Yes it is AI. Yes it is technology. But in pursuit of artificial intelligence, do not forget human intelligence. 2025 was marked by one of the most disengaged workforces ever. Employee disengagement reached crisis levels.According to a Gallup international study, engagement has fallen to its lowest level in a decade, with only 24 percent- 31 percent of employees feeling various digress of engagement at work. The leaders are too busy, too preoccupied and too distracted to give quality time to their people.Almost 70 percent employees feel disenchanted with work. That means that the output per employee will be less than half of their potential. With AI looming large, inflation rising, the employee of today feels abandoned by leaders who are busy pushing for more numbers to notice the rise of quiet quitting.People are there but not really there. Even for the sake of getting more numbers leaders need to change, redesign, and re-engage with employees. Start listening rather than speaking. Start asking rather than telling.Start consulting rather than pushing. At the end leaders need to reach out, find out, feel out what is happening to those who are the main architects of executing the strategy. The further they go away from their people the further they will go away from their targets.Leadership imperative#4-Re-energize commitment- Leaders make great strategy. 80 percent strategies made get lost in execution. Execution is done by teams all the way down. With low morale commitment is a rarity.Leaders need to create new energy in teams. There are three major elements that leaders must focus on. Communicate a compelling purpose. Develop a culture of empowerment and accountability. Recognize, reward and reinforce the behaviours that display commitment.All these imperatives have to be modeled by leaders. That builds credibility. That brings buy-in. That then creates a cadence of engagement and commitment. As John Wooden said, \u201cThe most powerful tool you have is your own example.\u201dCopyright Business Recorder, 2025",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "stock market",
-        "share",
-        "nifty",
-        "business",
-        "market",
-        "sensex"
+        "opinion"
       ],
       "creator": [
-        "more \u00bb"
+        "none@none.com (andleeb abbas)"
       ],
       "language": "english",
       "country": [
-        "india"
+        "pakistan"
       ],
       "category": [
         "business"
       ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:17:06",
+      "datatype": "opinion",
+      "pubDate": "2025-12-31 02:29:52",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:38:39",
-      "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/04/SENSEX-april25.jpg",
+      "fetched_at": "2025-12-31 03:08:19",
+      "image_url": "https://i.brecorder.com/large/2025/12/3106303094297dc.webp",
       "video_url": null,
-      "source_id": "siasat",
-      "source_name": "Siasat.com",
-      "source_priority": 30879,
-      "source_url": "https://www.siasat.com",
-      "source_icon": "https://n.bytvi.com/siasat.png",
+      "source_id": "brecorder",
+      "source_name": "Business Recorder",
+      "source_priority": 27815,
+      "source_url": "https://www.brecorder.com",
+      "source_icon": "https://n.bytvi.com/brecorder.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
+      "duplicate": false
     },
     {
-      "article_id": "a07873d44d229db328c9a573e7645fea",
-      "link": "https://home.nzcity.co.nz/news/article.aspx?id=436924",
-      "title": "China launches military exercise warning against Taiwan independence",
-      "description": "China has moved its military to surround Taiwan warning against its independence. But Beijing's action has been condemned by Taiwan calling for regional peace and de-escalation.",
+      "article_id": "a4f0d95b1ee9f311a79290dc4b392168",
+      "link": "https://www.brecorder.com/news/40399906/editorial-upcoming-spectrum-auction",
+      "title": "EDITORIAL: upcoming spectrum auction",
+      "description": "EDITORIAL: Finally, the government is closing in on a much-needed spectrum auction, which is of utmost importance for improving internet speed and reliability in the country. It is a welcome move.Pakistan is a spectrum-starved country, while data usage is rampant. It is like running a six-lane traffic load on a two-lane road. The result is obvious congestion, which is adversely impacting everyone.The question is why Pakistan is spectrum starved. One of the prime reasons is that the government has historically viewed spectrum sales as a one-time source of fiscal revenue, while considerations around network improvement and technological advancement remained secondary. This is why there has been no successful auction over the last five years, and with every passing day, service delivery continues to worsen.It appears that the realization is finally gaining ground that the broader economic benefits of spectrum allocation are greater than immediate fiscal gains.However, much will depend on pricing and payment conditions.The government is considering auctioning 600 MHz of spectrum, which is more than double the existing capacity.According to industry experts, the government will be fortunate if even half of the spectrum on offer is successfully auctioned. The key questions are the price set by the government, the currency of payment, and the payment schedule.The spectrum on offer spans different frequencies, ranging from 700 MHz to 3,500 MHz. While spectrum bands are technology-neutral, existing literature suggests that bands below 2,000 MHz are better suited for 3G/4G, while higher bands are more conducive for 5G.Ultimately, it will be the buyers\u2019 discretion to decide how they deploy the spectrum.The priority should be to improve speed for a large segment of the population and, for that, strengthening existing 3G/4G networks is critical.The focus must be on immediate improvements. According to the CEO of a leading Telco, better spectrum availability can increase speeds by 10\u201320 times, which is reassuring.At the same time, the government appears keen on headlines around rolling out 5G, even though its usage is currently limited and only a small number of expensive handsets are 5G-enabled. That said, 5G is the network of the future, and Pakistan should build the infrastructure needed to move up the value chain in areas such as artificial intelligence and quantum computing.It is good to dream in view of the fact that dreams can sometime offer unique perspectives or solutions to future problems in a self-reflective way, but securing today\u2019s potential is more important.The government has been mulling over these auctions for the past eighteen months. One major hurdle was the pending approval of Ufone\u2019s acquisition of Telenor, which has now been resolved. There are three players in the market, the structure is in place, and the time to move forward has arrived.The government must design the auction in a way that maximizes proceeds without imposing excessive upfront costs on operators. It must also ensure that operators invest in technology upgrades and deliver better speeds and network quality for everyone.The mistakes of the last auction when no spectrum could be sold should not be repeated. At the same time, the deal must be structured in a way so that consumers can benefit from it.Operators should be required to invest in technology, as seen in India, while the government can recover value through higher tax revenues and exports resulting from increased economic activity.Copyright Business Recorder, 2025",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "lifestyle",
-        "business",
-        "sport",
-        "travel",
-        "entertainment",
-        "jobs",
-        "national",
-        "politics",
-        "pacific",
-        "local news",
-        "multimedia",
-        "tv",
-        "latest",
-        "property",
-        "finance",
-        "environment",
-        "community",
-        "guide",
-        "science",
-        "sports",
-        "maori",
-        "technology",
-        "international",
-        "dating",
-        "search",
-        "news",
-        "new zealand",
-        "world",
-        "weather"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "new zealand"
-      ],
-      "category": [
-        "politics",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:17:03",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:43:55",
-      "image_url": null,
-      "video_url": null,
-      "source_id": "nzcity",
-      "source_name": "Nzcity Personal",
-      "source_priority": 135022,
-      "source_url": "https://home.nzcity.co.nz",
-      "source_icon": "https://n.bytvi.com/nzcity.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
-    },
-    {
-      "article_id": "514adfe44325bed5f2fbac8071add5ff",
-      "link": "https://en.mehrnews.com/news/240240/Space-achievements-reflect-defiance-of-sanctions",
-      "title": "Space achievements reflect defiance of sanctions",
-      "description": "TEHRAN, Dec. 29 (MNA) \u2013 Iran\u2019s First Vice President Mohammad Reza Aref said the country\u2019s space technologies clearly demonstrate national progress despite the unjust sanctions.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "technology"
+        "editorials"
       ],
       "creator": [
-        "mehr news agency"
+        "none@none.com ()"
       ],
       "language": "english",
       "country": [
-        "iran"
+        "pakistan"
       ],
       "category": [
+        "top",
         "technology"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:16:54",
+      "pubDate": "2025-12-31 02:29:33",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:35:51",
-      "image_url": "https://media.mehrnews.com/d/2025/12/13/3/5822842.jpg?ts=1765616205169",
+      "fetched_at": "2025-12-31 02:39:22",
+      "image_url": "https://i.brecorder.com/large/2025/12/3106250873a9c7b.webp",
       "video_url": null,
-      "source_id": "mehrnews",
-      "source_name": "Mehr News Agency",
-      "source_priority": 12039,
-      "source_url": "https://www.mehrnews.com",
-      "source_icon": "https://n.bytvi.com/mehrnews.png",
+      "source_id": "brecorder",
+      "source_name": "Business Recorder",
+      "source_priority": 27815,
+      "source_url": "https://www.brecorder.com",
+      "source_icon": "https://n.bytvi.com/brecorder.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -191,152 +171,16 @@
       "duplicate": false
     },
     {
-      "article_id": "09d23107aea6e7c055d160cf8bc64933",
-      "link": "https://thepeninsulaqatar.com/article/29/12/2025/qcdc-launches-my-career-my-future-winter-edition",
-      "title": "QCDC launches \u2018My Career \u2013 My Future\u2019 Winter Edition",
-      "description": "Doha, Qatar: Qatar Career Development Center (QCDC), founded by Qatar Foundation (QF), in collaboration with the Ministry of Labour (MoL), and the Min...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "qatar",
-        "general"
-      ],
-      "creator": [
-        "the peninsula newspaper"
-      ],
-      "language": "english",
-      "country": [
-        "qatar"
-      ],
-      "category": [
-        "education",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:16:46",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:39:49",
-      "image_url": "https://thepeninsulaqatar.com/get/image/20251229_1766985741-741-thumb_404.jpg?1766985742=",
-      "video_url": null,
-      "source_id": "thepeninsulaqatar",
-      "source_name": "The Peninsula Qatar",
-      "source_priority": 52716,
-      "source_url": "https://thepeninsulaqatar.com",
-      "source_icon": "https://n.bytvi.com/thepeninsulaqatar.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "55d1e3458ff0c7a7094d17efe1d18f6f",
-      "link": "https://www.tribuneindia.com/news/top-headlines/up-police-hashtag-tops-global-trending-list-on-x-for-over-two-hours",
-      "title": "UP Police hashtag tops global trending list on X for over two hours",
-      "description": "A hashtag for a Uttar Pradesh police conference, #UPPoliceManthan, reached 1.7 billion impressions and trended globally on X. The conference, chaired by the Chief Minister, focused on improving policing through technology and community engagement. Over 47,000 posts used the hashtag, achieving a reach of 38.6 million.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "#uttarpradeshpolice",
-        "uppolice",
-        "publicsafety",
-        "#uppolicemanthan",
-        "#digitalpolicing",
-        "#policemanthan",
-        "#policingconference",
-        "#globaltrending",
-        "yogiadityanath",
-        "crimeprevention"
-      ],
-      "creator": [
-        "pti"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "technology",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:16:40",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:42:54",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM4MDhiMDIwLWU0NzctMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc%3D",
-      "video_url": null,
-      "source_id": "tribuneindia",
-      "source_name": "The Tribune India",
-      "source_priority": 115825,
-      "source_url": "https://www.tribuneindia.com",
-      "source_icon": "https://n.bytvi.com/tribuneindia.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
-    },
-    {
-      "article_id": "a715669be907002b7f0bb76502429ef1",
-      "link": "https://www.tribuneindia.com/news/india/up-police-hashtag-tops-global-trending-list-on-x-for-over-two-hours",
-      "title": "UP Police hashtag tops global trending list on X for over 2 hours",
-      "description": "A hashtag for a Uttar Pradesh police conference, #UPPoliceManthan, reached 1.7 billion impressions and trended globally on X. The conference, chaired by the Chief Minister, focused on improving policing through technology and community engagement. Over 47,000 posts used the hashtag, achieving a reach of 38.6 million.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "#policemanthan",
-        "uppolice",
-        "#digitalpolicing",
-        "#uppolicemanthan",
-        "#globaltrending",
-        "#uttarpradeshpolice",
-        "publicsafety",
-        "crimeprevention",
-        "yogiadityanath",
-        "#policingconference"
-      ],
-      "creator": [
-        "pti"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "technology",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:16:40",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 07:13:13",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdhNTllM2EwLWU0ODUtMTFmMC05ZjdmLWQ5NWI0NWYwMWMxNi5qcGc%3D",
-      "video_url": null,
-      "source_id": "tribuneindia",
-      "source_name": "The Tribune India",
-      "source_priority": 115825,
-      "source_url": "https://www.tribuneindia.com",
-      "source_icon": "https://n.bytvi.com/tribuneindia.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "263ef40045befc5b43295ff73f7c48c7",
-      "link": "https://www.news18.com/business/markets/silver-pips-nvidia-to-become-worlds-second-biggest-asset-in-mcap-gold-remains-at-top-ws-l-9797458.html",
-      "title": "Silver Pips Nvidia To Become World's Second-Biggest Asset In Mcap; Gold Remains At Top",
-      "description": "Silver's jump comes after prices rallied beyond $84 per ounce, lifting its total market value above $4.7 trillion as against Nvidia's $4.6 trillion.",
+      "article_id": "2950dd433afe31207f0f912cdde036e3",
+      "link": "https://www.news18.com/business/markets/stocks-to-watch-indigo-indian-hotels-titan-hyundai-ola-electric-rites-and-others-9801339.html",
+      "title": "Stocks To Watch: IndiGo, Indian Hotels, Titan, Hyundai, Ola Electric, RITES, And Others",
+      "description": "Stocks to watch: Shares of firms like IndiGo, Indian Hotels, Titan, Hyundai, Ola Electric, RITES, and others will be in focus on Wednesday's trade",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
         "business"
       ],
       "creator": [
-        "mohammad haris"
+        "aparna deb"
       ],
       "language": "english",
       "country": [
@@ -346,10 +190,10 @@
         "business"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:16:02",
+      "pubDate": "2025-12-31 02:28:23",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:32:38",
-      "image_url": "https://images.news18.com/ibnlive/uploads/2025/12/1766646062_gold-silver-prices-2025-12-8f6940194323371e029b891be309d1a4-3x2.jpg",
+      "fetched_at": "2025-12-31 02:33:48",
+      "image_url": "https://images.news18.com/ibnlive/uploads/2025/04/stocks-to-watch-2025-04-7e46707eed76f133d21319e67fe8ccfa-3x2.png",
       "video_url": null,
       "source_id": "news18",
       "source_name": "News 18",
@@ -365,38 +209,35 @@
       "duplicate": false
     },
     {
-      "article_id": "668c916e0b9f8ae886006a600784d1f3",
-      "link": "https://www.freepressjournal.in/business/hindustan-copper-hits-fresh-record-high-strong-global-copper-prices-drive-nearly-50-percent-rally",
-      "title": "Hindustan Copper Hits Fresh Record High, Strong Global Copper Prices Drive Nearly 50 percent Rally",
-      "description": "Hindustan Copper shares hit record highs after rising nearly 50 percent in seven sessions. The rally is driven by record copper prices, global supply disruptions, strong demand from energy and technology sectors, and robust quarterly earnings, boosting investor confidence in the stock.",
+      "article_id": "f2711062143e50286683a29f45abf590",
+      "link": "https://www.openpr.com/news/4332977/creative-biogene-launches-high-quality-pegrna-synthesis",
+      "title": "Creative Biogene Launches High-Quality pegRNA Synthesis Service to Advance Precision Gene Editing",
+      "description": "Recently, in response to the growing demands of the biotechnology sector, Creative Biogene proudly announces the launch of its pegRNA Synthesis Service, designed to support cutting-edge prime gene editing applications.Shirley, NY - Dec 30, 2025 - Building from a strong",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "copper prices",
-        "hindustan copper",
-        "metal stocks"
+        "health & medicine"
       ],
       "creator": [
-        "manoj yadav"
+        "abnewswire"
       ],
       "language": "english",
       "country": [
-        "india"
+        "germany"
       ],
       "category": [
-        "top",
-        "business"
+        "health"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:15:52",
+      "pubDate": "2025-12-31 02:28:04",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:37:19",
-      "image_url": "https://media.assettype.com/freepressjournal/2025-12-29/s9kt2s50/hindustan-copper-share.jpg?width=1200",
+      "fetched_at": "2025-12-31 03:09:19",
+      "image_url": "https://cdn.open-pr.com/c/3/c31578424_g.jpg",
       "video_url": null,
-      "source_id": "freepressjournal",
-      "source_name": "The Free Press Journal",
-      "source_priority": 26427,
-      "source_url": "https://www.freepressjournal.in",
-      "source_icon": "https://n.bytvi.com/freepressjournal.png",
+      "source_id": "openpr",
+      "source_name": "Openpr.com",
+      "source_priority": 31972,
+      "source_url": "https://www.openpr.com",
+      "source_icon": "https://n.bytvi.com/openpr.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -406,642 +247,34 @@
       "duplicate": false
     },
     {
-      "article_id": "bdb89af6dad9f15f39842538f1997113",
-      "link": "https://en.vietnamplus.vn/vietnam-indonesia-see-vast-room-for-further-growth-of-ties-ambassador-post335080.vnp",
-      "title": "Vietnam, Indonesia see vast room for further growth of ties: Ambassador",
-      "description": "The traditional friendship, nurtured early on by President Ho Chi Minh and President Sukarno and carefully cultivated by successive generations of leaders and people of both countries, has made remarkable progress across politics, economy, defence and people-to-people exchanges. HCM City committed to promoting Vietnam\u2013Indonesia relationsVietnam extends condolences over losses caused by severe floods, landslides in IndonesiaPhoto exhibition spotlights Vietnam-Indonesia friendship",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "politics"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "vietnam"
-      ],
-      "category": [
-        "politics",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:15:26",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:45:54",
-      "image_url": "https://mediaen.vietnamplus.vn/images/bba6072e3990d0409cab2ebb29a01ed40c891d7814502fc913d9b4a3fb63a0fe30116700e000fe3ddc5f5058dbf64d4c/indonesia-1.jpg.webp",
-      "video_url": null,
-      "source_id": "vietnamplus",
-      "source_name": "Vietnam+",
-      "source_priority": 248784,
-      "source_url": "https://www.vietnamplus.vn",
-      "source_icon": "https://n.bytvi.com/vietnamplus.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "435823d20f887947ac05a84dee029a94",
-      "link": "https://www.fool.com/investing/2025/12/29/the-besties-of-2025/",
-      "title": "The Motley Fool Rule Breakers Besties of 2025",
-      "description": "It's time for a celebration of the episodes that educated, amused, and enriched in 2025.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "financials",
-        "joby",
-        "axon",
-        "xom",
-        "pton",
-        "vktx",
-        "d695b218-f8cd-42a8-8408-e080041eed03",
-        "cat",
-        "investing",
-        "achr"
-      ],
-      "creator": [
-        "newsfeedback@fool.com (motley fool staff)"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:15:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 06:09:02",
-      "image_url": "https://g.foolcdn.com/image/?op=resize&url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848410%2Fthe-besties-of-2025.jpg&w=1200",
-      "video_url": null,
-      "source_id": "fool",
-      "source_name": "Fool",
-      "source_priority": 28963,
-      "source_url": "https://www.fool.com",
-      "source_icon": "https://n.bytvi.com/fool.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "23bc94794a973bddb3b9def6d36a34d6",
-      "link": "https://www.latestly.com/technology/fitness-watches-and-tech-in-2026-garmin-fitbit-and-rivals-face-ai-shift-accuracy-challenges-and-new-competition-heres-what-to-expect-7255313.html",
-      "title": "Fitness Watches and Tech in 2026: Garmin, Fitbit and Rivals Face AI Shift, Accuracy Challenges and New Competition; Here\u2019s What To Expect",
-      "description": "Global fitness wearables are entering a critical phase ahead of 2026, as leading brands face pressure to fix accuracy and software issues while delivering smarter health insights. Garmin, Fitbit and rivals are expected to focus on AI-driven coaching, deeper ecosystem integration and new form factors, reshaping competition across the market worldwide.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "google",
-        "smartwatches and fitness trackers",
-        "fitness wearables 2026",
-        "garmin fitness watches",
-        "health tracking technology",
-        "consumer electronics",
-        "health tech",
-        "industry trends",
-        "fitness wearable innovations",
-        "wearable technology trends",
-        "fitbit comeback",
-        "fitness watch 2026",
-        "samsung",
-        "tech 2026"
-      ],
-      "creator": [
-        "team latestly"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "technology"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:14:04",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 07:35:37",
-      "image_url": "https://st1.latestly.com/wp-content/uploads/2025/12/Smartwatch-Representational-image.jpg",
-      "video_url": null,
-      "source_id": "latestly",
-      "source_name": "Latestly",
-      "source_priority": 31923,
-      "source_url": "https://www.latestly.com",
-      "source_icon": "https://n.bytvi.com/latestly.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "b0c38e826262fc8816ccf266eec56bb8",
-      "link": "https://english.mathrubhumi.com/news/india/cag-report-modi-govt-science-environment-waste-jwg9cmx4",
-      "title": "Billions of public funds wasted: CAG pulls up Modi govt's science, environment departments",
-      "description": "A scathing CAG audit exposes billions in wasted funds and systemic failures across India\u2019s science and space departments. Discover the financial lapses stalling critical missions.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "india"
-      ],
-      "creator": [
-        "news desk"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "science",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:13:58",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:35:09",
-      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1o5h72mpq175bqgearc/0/pm-modi-jpg.jpg?w=900",
-      "video_url": null,
-      "source_id": "mathrubhumi",
-      "source_name": "Mathrubhumi English",
-      "source_priority": 7490,
-      "source_url": "https://english.mathrubhumi.com",
-      "source_icon": "https://n.bytvi.com/mathrubhumi.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "2cba066b3ddf9e1c32876980650b3ac5",
-      "link": "https://biztoc.com/x/7dd743cc3c215a55",
-      "title": "Microsoft Requiring Internet To Install Windows Is Dystopian, Says Ethereum Creator Vitalik Buterin Amid Worries About Loss Of Control Over PCs",
-      "description": "Vitalik Buterin, co-founder of Ethereum (CRYPTO: ETH), voiced his concerns Sunday about corporations like Microsoft Corp. (NASDAQ:MSFT) gaining more control over personal computers.\u2018Corporations Want To End Ownership\u2019Buterin shared his experience in response to an X post about big technology...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": null,
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "technology"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:13:32",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:46:16",
-      "image_url": "https://cdn.biztoc.com/7dd743cc3c215a55_sq.webp",
-      "video_url": null,
-      "source_id": "biztoc",
-      "source_name": "Biztoc",
-      "source_priority": 267060,
-      "source_url": "https://biztoc.com",
-      "source_icon": "https://n.bytvi.com/biztoc.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
-    },
-    {
-      "article_id": "33da14f5c147e7aaf16b5f3ecfe073cf",
-      "link": "https://www.ndtv.com/auto/top-5-tata-sierra-rivals-arriving-in-2026-check-list-10051813",
-      "title": "Top 5 Tata Sierra Rivals Arriving In 2026: Check List",
-      "description": "Tata Sierra SUV, priced from Rs 11.49 lakh, will face intense competition in 2026 as multiple new and facelifted rivals arrive.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "news"
-      ],
-      "creator": [
-        "ndtv"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "technology",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:12:37",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 06:00:59",
-      "image_url": "https://c.ndtvimg.com/2025-12/r2hhkclo_tata-sierra_625x300_29_December_25.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D800",
-      "video_url": null,
-      "source_id": "ndtv",
-      "source_name": "Ndtv",
-      "source_priority": 1204,
-      "source_url": "http://www.ndtv.com",
-      "source_icon": "https://n.bytvi.com/ndtv.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "4cf5bd6b28b55da673bd9eeb41a516f1",
-      "link": "https://menafn.com/1110534147/A-Future-Classic-In-The-Making-The-Eco-Friendly-Icaur-V27-Makes-Middle-East-Debut",
-      "title": "A Future Classic In The Making: The Eco-Friendly Icaur V27 Makes Middle East Debut",
-      "description": "(MENAFN - The Peninsula)The Peninsula Dubai, UAE: iCAUR, an electric-led automotive brand from China, is launching in the Middle East with the dynamic V27 SUV. Making its regional debut in the ...",
+      "article_id": "1be109c23842662f89d4d671b779dd74",
+      "link": "http://www.spokesman.com/stories/2025/dec/30/defense-panels-still-not-clear-on-golden-domes-att/",
+      "title": "Defense panels still not clear on Golden Dome\u2019s attributes - Tue, 30 Dec 2025 PST",
+      "description": "WASHINGTON \u2013 Seven months after President Donald Trump announced plans for a Golden Dome missile shield for America, lawmakers who oversee the Pentagon say they have yet to learn meaningful information about the system\u2019s attributes, cost or schedule.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": null,
       "creator": [
-        "marketing@menafn.com (menafn)"
-      ],
-      "language": "english",
-      "country": [
-        "world"
-      ],
-      "category": [
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:12:33",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 11:12:05",
-      "image_url": "https://menafn.com/updates/pr/2025-12/29/TP_ef6caimage_story.jpg",
-      "video_url": null,
-      "source_id": "menafn",
-      "source_name": "Menafn",
-      "source_priority": 28392,
-      "source_url": "https://menafn.com",
-      "source_icon": "https://n.bytvi.com/menafn.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "eb27b6de30fe282fd9fce5c0b50b58f6",
-      "link": "https://www.siasat.com/japanese-tourists-mistreated-over-swimsuits-santa-caps-in-varanasi-3317798/",
-      "title": "Japanese tourists mistreated over swimsuits, Santa caps in Varanasi",
-      "description": "Some Japanese tourists reportedly faced mistreatment for wearing swimsuits and Santa Claus caps during a visit to a ghat in Varanasi, Uttar Pradesh. The incident occurred on December 25, when the tourists were preparing to take a bath at the Dashashwamedh Ghat. Some devotees stopped the tourists and accused them of urinating in the river. ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "tourists",
-        "varanasi",
-        "india",
-        "videos"
-      ],
-      "creator": [
-        "news desk"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "politics",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:12:26",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:38:40",
-      "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/12/New-Project-2025-12-29T102339.925.jpg",
-      "video_url": null,
-      "source_id": "siasat",
-      "source_name": "Siasat.com",
-      "source_priority": 30879,
-      "source_url": "https://www.siasat.com",
-      "source_icon": "https://n.bytvi.com/siasat.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "182abfcc475c7a070cca3c8f50f591f3",
-      "link": "https://www.siasat.com/tara-sutaria-shares-pictures-of-her-hearts-veer-pahariya-orry-3317826/",
-      "title": "Tara Sutaria shares pictures of her \u2018hearts\u2019 Veer Pahariya, Orry",
-      "description": "Mumbai: Actress Tara Sutaria gave fans a glimpse into a cosy night out as she shared pictures featuring her beau Veer Pahariya and B-Town\u2019s bestie Orry. The actress took to Instagram, where she re-shared a candid selfie collage, clicked in an intimate party setting, originally posted by Orry. In the first selfie, Orry is seen ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "veer pahariya",
-        "orry",
-        "bollywood actor",
-        "bollywood",
-        "tara sutaria"
-      ],
-      "creator": [
-        "indo-asian news service"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "entertainment"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:12:24",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:38:38",
-      "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/12/Tara-Sutaria-1.jpg",
-      "video_url": null,
-      "source_id": "siasat",
-      "source_name": "Siasat.com",
-      "source_priority": 30879,
-      "source_url": "https://www.siasat.com",
-      "source_icon": "https://n.bytvi.com/siasat.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3ae0def0c826bff2ed04f6ec10d1dd90",
-      "link": "https://www.digit.in/news/gaming/you-can-now-experience-the-stranger-things-world-in-minecraft-all-details.html",
-      "title": "You can now experience the Stranger Things world in Minecraft, all details",
-      "description": "Stranger Things has officially entered its final chapter on Netflix, but the story of Hawkins is far from over. Minecraft has teamed up with the iconic series for a brand-new Stranger Things DLC that lets players dive headfirst into Demogorgons, bike rides, secret labs, and the creeping horror of the Upside Down. Available now on",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "gaming"
-      ],
-      "creator": [
-        "divyanshi.sharma@timesgroup.com (divyanshi sharma)"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "technology"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:12:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 07:08:49",
-      "image_url": "https://static.digit.in/Untitled-design-10-6.png",
-      "video_url": null,
-      "source_id": "digit_in",
-      "source_name": "Digit",
-      "source_priority": 33876,
-      "source_url": "https://www.digit.in",
-      "source_icon": "https://n.bytvi.com/digit_in.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "80d266053772277fc4ca5536e5c569ad",
-      "link": "https://www.hindustantimes.com/cities/delhi-news/anatomy-of-a-pothole-what-lies-under-the-cracks-101766985108048.html",
-      "title": "Anatomy of a pothole: What lies under the cracks",
-      "description": "For all its flyovers and sweeping expressways, skyline of glass towers and its larger claim to modernity, Delhi has learnt to live with the interruptions that punctuate every journey.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "cities/delhi-news"
-      ],
-      "creator": [
-        "hindustan times"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "top",
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:11:47",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:33:14",
-      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/12/29/1600x900/logo/A-damaged-stretch-at-Vikas-Marg-near-ITO-bridge---_1766985226203.jpg",
-      "video_url": null,
-      "source_id": "hindustantimes",
-      "source_name": "Hindustan Times",
-      "source_priority": 2173,
-      "source_url": "http://www.hindustantimes.com",
-      "source_icon": "https://n.bytvi.com/hindustantimes.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "42d686d31b6c518902d1a9f52069466e",
-      "link": "https://thepeninsulaqatar.com/article/29/12/2025/qatar-advances-ai-leadership-through-key-digital-milestones",
-      "title": "Qatar advances AI leadership through key digital milestones",
-      "description": "Doha, Qatar: Qatar has been at the forefront of digital transformation over the past decade, enhancing its economy and services through significant in...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "qatar",
-        "general"
-      ],
-      "creator": [
-        "the peninsula newspaper"
-      ],
-      "language": "english",
-      "country": [
-        "qatar"
-      ],
-      "category": [
-        "technology",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:10:26",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:39:49",
-      "image_url": "https://thepeninsulaqatar.com/get/image/20230629_1688015620-306-thumb_404.jpg?1688015620=",
-      "video_url": null,
-      "source_id": "thepeninsulaqatar",
-      "source_name": "The Peninsula Qatar",
-      "source_priority": 52716,
-      "source_url": "https://thepeninsulaqatar.com",
-      "source_icon": "https://n.bytvi.com/thepeninsulaqatar.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "c21d435317cfeca4abcbb94e8f911b0a",
-      "link": "https://vernonmorningstar.com/2025/12/29/b-c-port-fuelling-business-by-tapping-into-shippings-ongoing-shift-to-lng/",
-      "title": "B.C. port fuelling business by tapping into shipping\u2019s ongoing shift to LNG",
-      "description": "First major LNG ship-to-ship refuelling in Nanaimo happened this year",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "regional news",
-        "news"
-      ],
-      "creator": [
-        "none"
-      ],
-      "language": "english",
-      "country": [
-        "canada"
-      ],
-      "category": [
-        "top",
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:10:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 16:28:27",
-      "image_url": "https://vernonmorningstar.com/wp-content/uploads/sites/4/2025/12/41216953_web1_251222-NBU-LNG-Ship-bunkering-Nanaimo-KEyD_2.jpg?w=1024",
-      "video_url": null,
-      "source_id": "vernonmorningstar",
-      "source_name": "Vernon Morning Star",
-      "source_priority": 1043667,
-      "source_url": "https://www.vernonmorningstar.com",
-      "source_icon": "https://n.bytvi.com/vernonmorningstar.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
-    },
-    {
-      "article_id": "b0ea6ef1401c175f1c7551fdbdcf016e",
-      "link": "https://kelownacapnews.com/2025/12/29/b-c-port-fuelling-business-by-tapping-into-shippings-ongoing-shift-to-lng/",
-      "title": "B.C. port fuelling business by tapping into shipping\u2019s ongoing shift to LNG",
-      "description": "First major LNG ship-to-ship refuelling in Nanaimo happened this year",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "regional news",
-        "news"
-      ],
-      "creator": [
-        "none"
-      ],
-      "language": "english",
-      "country": [
-        "canada"
-      ],
-      "category": [
-        "top",
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:10:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 16:29:51",
-      "image_url": "https://kelownacapnews.com/wp-content/uploads/sites/5/2025/12/41216953_web1_251222-NBU-LNG-Ship-bunkering-Nanaimo-KEyD_2.jpg?w=1024",
-      "video_url": null,
-      "source_id": "kelownacapnews",
-      "source_name": "Kelowna Capital News",
-      "source_priority": 1376504,
-      "source_url": "https://www.kelownacapnews.com",
-      "source_icon": "https://n.bytvi.com/kelownacapnews.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": true
-    },
-    {
-      "article_id": "9fa0598d8f9e8628a89ae834854b80c5",
-      "link": "https://indianexpress.com/article/education/iit-mandi-placement-report-5-year-salary-package-job-sector-top-companies-jee-main-2026-advanced-10443580/",
-      "title": "IIT Mandi placements in last 5 years: Salary package, sector, top companies and more",
-      "description": "Placements at the Indian Institute of Technology (IIT) Mandi over the last five academic years, from 2020-21 to 2024-25, show a trajectory of expansion in recruiter participation, constant improvement in placement outcomes, and a gradual diversification of sectors and roles on offer.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "education"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "top",
-        "breaking"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:08:59",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 07:24:08",
-      "image_url": "https://images.indianexpress.com/2025/12/IIT-Mandi-students-on-graduation-day.jpg",
-      "video_url": null,
-      "source_id": "indianexpress",
-      "source_name": "The Indian Express",
-      "source_priority": 1386,
-      "source_url": "https://indianexpress.com",
-      "source_icon": "https://n.bytvi.com/indianexpress.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "cae281d7194042dd067cd38fe2d9b127",
-      "link": "https://www.benzinga.com/news/politics/25/12/49603186/garry-kasparov-criticizes-trumps-ukraine-approach-praises-ukraines-president-we-are-all-zelensky-bu",
-      "title": "Garry Kasparov Criticizes Trump's Ukraine Approach, Praises Ukraine's President: 'We Are All Zelensky. But No One On Earth Has His Self-Control'",
-      "description": "Russian chess Grandmaster Garry Kasparov criticized U.S. leadership after President Donald Trump met with Ukraine's President Volodymyr Zelenskyy.Trump\u2013Zelenskyy Meeting Sparks CriticismOn Sunday, Kasparov shared a post on X highlighting the presence of Trump allies, Steve Witkoff, Stephen Miller, Pete Hegseth, and Jared Kushner at the meeting with Zelenskyy. \"Is anyone going to come to represent America?\" Kasparov wrote on X, expressing concern that U.S. interests were not properly represented.Is anyone going to come to represent America? https://t.co/Z6gM1Twqkm\u2014 Garry Kasparov (@Kasparov63) December 28, 2025Later, he amplified an open-source intelligence post quoting President Trump saying, \"Russia wants to see Ukraine succeed,\" adding, \"We are all Zelenskyy. But no one on Earth has his self-control.\"Kasparov's remarks praised Zelenskyy's leadership under immense pressure and ...Full story available on Benzinga.com",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "taylor greene",
-        "volodymyr zelensky",
-        "garry kasparov",
-        "benzinga",
-        "politics",
-        "vladimir putin",
-        "donald trump"
-      ],
-      "creator": [
-        "snigdha gairola"
+        "john m. donnelly"
       ],
       "language": "english",
       "country": [
         "united states of america"
       ],
       "category": [
+        "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:08:57",
+      "pubDate": "2025-12-31 02:28:00",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 06:04:14",
-      "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/29/Vilnius---lithuania-February-12--2015-Ga.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+      "fetched_at": "2025-12-31 03:05:40",
+      "image_url": "https://thumb.spokesman.com/l2sMHX5ZvY-IivJJOF8GNS33NSY=/600x0/media.spokesman.com/graphics/2020/08/sr_placeholder.png",
       "video_url": null,
-      "source_id": "benzinga",
-      "source_name": "Benzinga",
-      "source_priority": 2050,
-      "source_url": "https://www.benzinga.com",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
+      "source_id": "spokesman",
+      "source_name": "Spokesman",
+      "source_priority": 6464,
+      "source_url": "https://www.spokesman.com",
+      "source_icon": "https://n.bytvi.com/spokesman.png",
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -1051,41 +284,41 @@
       "duplicate": false
     },
     {
-      "article_id": "79640061a31fc15cfcef50b1802ce4b1",
-      "link": "https://home.nzcity.co.nz/news/article.aspx?id=436850",
-      "title": "Tilda Swinton is clueless when it comes to social media",
-      "description": "The 65-year-old actress has never been on the likes of Instagram, Facebook, X and TikTok, and she much prefers talking to people in person.",
+      "article_id": "0266652e63c7a6a8d8a15b42562d3bdf",
+      "link": "https://home.nzcity.co.nz/news/article.aspx?id=436998",
+      "title": "One of our greatest men's one-day batters is stunned to receive a New Year Honour",
+      "description": "One of our greatest men's one-day batters is stunned to receive a New Year Honour",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "environment",
-        "maori",
-        "international",
-        "travel",
-        "finance",
-        "guide",
-        "new zealand",
-        "entertainment",
-        "politics",
-        "lifestyle",
-        "science",
-        "latest",
-        "news",
-        "sports",
-        "tv",
-        "national",
-        "community",
         "technology",
-        "local news",
-        "sport",
-        "dating",
-        "multimedia",
-        "weather",
-        "jobs",
-        "pacific",
         "business",
-        "world",
+        "sport",
+        "guide",
+        "latest",
+        "international",
+        "entertainment",
+        "local news",
+        "search",
         "property",
-        "search"
+        "national",
+        "travel",
+        "maori",
+        "jobs",
+        "science",
+        "new zealand",
+        "environment",
+        "weather",
+        "pacific",
+        "lifestyle",
+        "multimedia",
+        "news",
+        "finance",
+        "community",
+        "politics",
+        "dating",
+        "world",
+        "tv",
+        "sports"
       ],
       "creator": null,
       "language": "english",
@@ -1094,12 +327,12 @@
       ],
       "category": [
         "top",
-        "entertainment"
+        "lifestyle"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:08:33",
+      "pubDate": "2025-12-31 02:27:03",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:13:31",
+      "fetched_at": "2025-12-31 02:45:40",
       "image_url": null,
       "video_url": null,
       "source_id": "nzcity",
@@ -1116,53 +349,16 @@
       "duplicate": false
     },
     {
-      "article_id": "985692c1f0af99b6949f9d513b5cf95e",
-      "link": "https://www.newsbytesapp.com/news/auto/byd-set-to-dethrone-tesla-as-world-s-largest-ev-maker/story",
-      "title": "BYD on track to surpass Tesla in global EV sales",
-      "description": "China's automotive giant BYD is all set to dethrone Tesla as the world's largest electric vehicle (EV) manufacturer in terms of annual sales.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": [
-        "akash pandey"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "technology",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:08:15",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:08:15",
-      "image_url": "https://i.cdn.newsbytesapp.com/images/l69220251229101809.jpeg",
-      "video_url": null,
-      "source_id": "newsbytesapp",
-      "source_name": "Newsbytes",
-      "source_priority": 35842,
-      "source_url": "https://www.newsbytesapp.com",
-      "source_icon": "https://n.bytvi.com/newsbytesapp.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "1d59ef38365eca93fe781c2c7750eac4",
-      "link": "https://www.livemint.com/ai/artificial-intelligence/why-bernie-sanders-is-targeting-richest-people-in-the-world-over-ai-boom-11766981393171.html",
-      "title": "Why Bernie Sanders is targeting \u2018richest people in the world\u2019 over AI boom?",
-      "description": "Bernie Sanders warns the AI boom driven by billionaires could deepen job insecurity, backs a pause on new data centres and urges Congress to act.",
+      "article_id": "c1b256bd3734509be25572c2b15c9781",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-techno-industries-shares-to-debut-today-gmp-steady-ahead-of-listing/articleshow/126262394.cms",
+      "title": "Apollo Techno Industries shares to debut today. GMP steady ahead of listing",
+      "description": "Apollo Techno Industries is set to list on the BSE SME platform with a modest grey market premium, following a highly subscribed Rs 48 crore IPO. The company, a player in trenchless technology for infrastructure, saw strong demand from all investor categories.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "artificial intelligence,economic insecurity,human connection,ai data centres,mental health,bernie sanders,ai chatbots,moratorium on datacenters"
+        "apollo techno industries,apollo techno industries    share price,apollo techno industries    stock price,apollo techno industries    ipo listing date,apollo techno industries    share listing,apollo techno industries    ipo listing,apollo techno industries    listing price,apollo techno industries   ipo,apollo techno industries,bse sme platform,trenchless technology"
       ],
       "creator": [
-        "sayantani biswas"
+        "etmarkets.com"
       ],
       "language": "english",
       "country": [
@@ -1173,91 +369,10 @@
         "business"
       ],
       "datatype": "news",
-      "pubDate": "2025-12-29 05:07:59",
+      "pubDate": "2025-12-31 02:27:01",
       "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:35:12",
-      "image_url": "https://www.livemint.com/lm-img/img/2025/12/29/1600x900/logo/US-SENATE-LAWMAKERS-VOTE-ON-HEALTH-CARE-BILL-79_1766981450933_1766981459459.jpg",
-      "video_url": null,
-      "source_id": "livemint",
-      "source_name": "Mint",
-      "source_priority": 12950,
-      "source_url": "https://www.livemint.com",
-      "source_icon": "https://n.bytvi.com/livemint.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "35210a1e709d956163e9de3b16e7b3b9",
-      "link": "https://theprint.in/business/22-billion-capital-how-2025-became-the-year-of-the-indian-ipo/2814045/",
-      "title": "$22 billion-capital: How 2025 became the year of the Indian IPO",
-      "description": "More than 200 companies either received approval to list from the securities regulator or lodged prospectuses for IPOs this year \u2014 the highest tally in 27 years.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "indian stock market",
-        "ipo",
-        "india",
-        "business",
-        "initial public offering"
-      ],
-      "creator": [
-        "ashutosh joshi"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "domestic"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:07:35",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:36:24",
-      "image_url": "https://staticprintenglish.theprint.in/wp-content/uploads/2020/10/BSE-building-scaled-e1602154957594-696x392.jpg",
-      "video_url": null,
-      "source_id": "theprint",
-      "source_name": "Theprint",
-      "source_priority": 14094,
-      "source_url": "https://theprint.in",
-      "source_icon": "https://n.bytvi.com/theprint.png",
-      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "8d419c4ab75a28f8aaa0bcd698896968",
-      "link": "https://economictimes.indiatimes.com/news/india/it-is-not-our-ambition-to-become-a-vishwaguru-it-is-the-need-of-the-says-rss-chief-bhagwat/videoshow/126224876.cms",
-      "title": "\u2018It is not our ambition to become a 'Vishwaguru\u2019; it is the need of the...\u2019 says RSS Chief Bhagwat",
-      "description": "RSS Chief Mohan Bhagwat emphasized that India becoming a 'Vishwaguru' is not an ambition, but a global necessity. He stressed that technology should serve humanity, not control it, and urged Hindus to lead by example, promoting 'dharma' globally without military or economic power",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "rss chief mohan bhagwat,vishwaguru,sanatana dharma,hindutva,technology,rss,rss speech,rss on hindu rastra,rss and modi,mohan bhagwant india as vishwaguru statement"
-      ],
-      "creator": [
-        "economic times"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "politics",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2025-12-29 05:07:34",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2025-12-29 05:32:39",
-      "image_url": "https://img.etimg.com/thumb/msid-126224876,width-1070,height-580,overlay-economictimes/feed-videoshow.jpg",
+      "fetched_at": "2025-12-31 02:34:08",
+      "image_url": "https://img.etimg.com/photo/118783427.cms",
       "video_url": null,
       "source_id": "economictimes_indiatimes",
       "source_name": "The Economic Times",
@@ -1271,6 +386,446 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
+    },
+    {
+      "article_id": "0a894ee3d2507844af2bdf5d27edcd81",
+      "link": "https://sfist.com/2025/12/30/new-residential-tower-nearly-as-tall-as-transamerica-approved/",
+      "title": "New Residential Tower Nearly as Tall as Transamerica Pyramid Gets Approved",
+      "description": "A new tower in the middle of the city that will change the San Francisco skyline once more gained its approvals Tuesday after being stalled for years.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "sf news",
+        "tall buildings",
+        "developments"
+      ],
+      "creator": [
+        "jay barmann"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:26:57",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:41:36",
+      "image_url": "https://img.sfist.com/2025/12/10-s-van-ness-render-1.jpg",
+      "video_url": null,
+      "source_id": "sfist",
+      "source_name": "Sfist",
+      "source_priority": 45727,
+      "source_url": "https://sfist.com",
+      "source_icon": "https://n.bytvi.com/sfist.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "aa0d51336a573316d15da0c9edcaa165",
+      "link": "https://www.openpr.com/news/4332976/automotive-thermal-management-market-research-at-a-cagr-of-6-8",
+      "title": "Automotive Thermal Management Market Research: at a CAGR of 6.8% during the forecast period",
+      "description": "QY Research Inc. (Global Market Report Research Publisher) announces the release of 2025 latest report \"Automotive Thermal Management- Global Market Share and Ranking, Overall Sales and Demand Forecast 2026-2032\". Based on current situation and impact historical analysis (2020-2024) and forecast",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "advertising, media consulting, marketing research"
+      ],
+      "creator": [
+        "qy research inc."
+      ],
+      "language": "english",
+      "country": [
+        "germany"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:25:34",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:40:26",
+      "image_url": "https://cdn.open-pr.com/L/c/Lc31817038_g.jpg",
+      "video_url": null,
+      "source_id": "openpr",
+      "source_name": "Openpr.com",
+      "source_priority": 31972,
+      "source_url": "https://www.openpr.com",
+      "source_icon": "https://n.bytvi.com/openpr.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "055057be2888e917d72065c11758af3a",
+      "link": "https://financialpost.com/pmn/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year",
+      "title": "Asian shares trade mixed with some exchanges closed ahead of the New Year",
+      "description": "TOKYO (AP) \u2014 Major Asian stock markets, including Tokyo and Seoul, were closed Wednesday for the yearend and New Year\u2019s holidays, while trading was mixed in those bourses that remained open. In China, the Hang Seng index dipped 0.5% in early trading to 25,715.16, while the Shanghai Composite rose less than 0.1% to 3,966.39. The [...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ap",
+        "pmn business",
+        "pmn"
+      ],
+      "creator": [
+        "the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "canada"
+      ],
+      "category": [
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:25:04",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:36:07",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "financialpost",
+      "source_name": "Financial Post",
+      "source_priority": 7235,
+      "source_url": "https://financialpost.com",
+      "source_icon": "https://n.bytvi.com/financialpost.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "d97ebdbea0d07752186db35b227373e2",
+      "link": "https://www.jalopnik.com/2060288/car-brand-with-worst-owner-satisfaction-consumer-reports/",
+      "title": "This Car Brand Scores The Worst For Owner Satisfaction In Consumer Reports' Ranking",
+      "description": "Consumer Reports can tell you a lot of useful things about car brands. For example, this is the brand with the lowest owner satisfaction scores.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "brands"
+      ],
+      "creator": [
+        "staff@jalopnik.com (charles krome)"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:25:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:36:24",
+      "image_url": "https://www.jalopnik.com/img/gallery/this-car-brand-scores-the-worst-for-owner-satisfaction-in-consumer-reports-ranking/l-intro-1766597812.jpg",
+      "video_url": null,
+      "source_id": "jalopnik",
+      "source_name": "Jalopnik",
+      "source_priority": 9902,
+      "source_url": "https://jalopnik.com",
+      "source_icon": "https://n.bytvi.com/jalopnik.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c7ce0aae104c01255236ea6959ef577c",
+      "link": "https://www.timesnownews.com/world/asia/china-banned-starlink-national-security-threat-penalised-ship-article-153373145",
+      "title": "Explained: Why China Banned Starlink And Penalised A Ship For Using It",
+      "description": "Viewing Starlink as a \"national security threat\", China has cited concerns over foreign-controlled satellite communications, overseas data routing and potential military use to ban the satellite-based internet service within its borders.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "starlink national security threat china",
+        "starlink monopoly china challenge",
+        "spacex starlink china waters",
+        "landspace zhuque 3 reusable rocket",
+        "china penalises ship starlink",
+        "satellite internet china laws",
+        "why china bans starlink",
+        "china starlink ban"
+      ],
+      "creator": [
+        "diana george"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:24:40",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:34:57",
+      "image_url": "https://images.timesnownews.com/thumb/msid-153373145,imgsize-18402,width-1280,height-720/153373145.jpg",
+      "video_url": null,
+      "source_id": "timesnownews",
+      "source_name": "Times Now News",
+      "source_priority": 2243,
+      "source_url": "https://www.timesnownews.com",
+      "source_icon": "https://n.bytvi.com/timesnownews.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "7c065cf7593e080e0cda81695495ab7e",
+      "link": "https://www.thehansindia.com/news/national/bid-to-shape-budget-2026-strategy-pm-bats-for-mission-mode-reforms-to-sustain-long-term-growth-1035202",
+      "title": "Bid To Shape Budget 2026 Strategy: PM bats for mission mode reforms to sustain long-term growth",
+      "description": "Interacts with eminent economists at NITI Aayog",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "national,news"
+      ],
+      "creator": [
+        "the hans india"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:24:30",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:41:06",
+      "image_url": "https://assets.thehansindia.com/h-upload/2025/12/31/1613062-modi.webp",
+      "video_url": null,
+      "source_id": "thehansindia",
+      "source_name": "The Hans India",
+      "source_priority": 41360,
+      "source_url": "http://www.thehansindia.com",
+      "source_icon": "https://n.bytvi.com/thehansindia.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "54b8b2d52eca592f759e2274d4d937d8",
+      "link": "https://www.hindustantimes.com/cities/chandigarh-news/interview-punjab-s-law-order-better-than-most-states-says-dgp-gaurav-yadav-101767122959489.html",
+      "title": "Interview: Punjab\u2019s law & order better than most states, says DGP Gaurav Yadav",
+      "description": "Punjab Police Chief Gaurav Yadav addresses security challenges, crime trends, and anti-drug efforts in Punjab, emphasizing control over law and order.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "latest"
+      ],
+      "creator": [
+        "hindustan times"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:24:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:33:37",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/12/30/1600x900/logo/TACKLING-CRIME-DGP-Yadav-says-all-24-low-intensity_1767122954010.jpg",
+      "video_url": null,
+      "source_id": "hindustantimes",
+      "source_name": "Hindustan Times",
+      "source_priority": 2173,
+      "source_url": "http://www.hindustantimes.com",
+      "source_icon": "https://n.bytvi.com/hindustantimes.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ae87f91e05684c6d9b4f2b6a2d6d8511",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=149471",
+      "title": "2025 Editor\u2019s Year-End Message | Reading the Structure of Change",
+      "description": "Today marks the final day of 2025. For those who have closely followed the technology industry\u2014particularly artificial intelligence\u2014this year is difficult to explain as a simple twelve-month cycle. It felt less like a single year and more like multiple phases of transition compressed into one unusua",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "monica younsoo chung/ editor"
+      ],
+      "language": "english",
+      "country": [
+        "south korea"
+      ],
+      "category": [
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:24:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:24:13",
+      "image_url": "https://www.koreaittimes.com/news/photo/202512/149471_98837_825.jpeg",
+      "video_url": null,
+      "source_id": "koreaittimes",
+      "source_name": "Korea It Times",
+      "source_priority": 1176685,
+      "source_url": "http://www.koreaittimes.com",
+      "source_icon": "https://n.bytvi.com/koreaittimes.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "0bc2db9b50822612ec4643a7ff4e5197",
+      "link": "https://guardian.ng/business-services/industry/2026-stakeholders-chart-path-for-business-survival/",
+      "title": "2026: Stakeholders chart path for business survival",
+      "description": "Stakeholders have warned that survival in 2026 will depend largely on how quickly companies adapt to new economic realities and fundamentally change their operations.The post 2026: Stakeholders chart path for business survival appeared first on The Guardian Nigeria News - Nigeria and World News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "asbon",
+        "dr. femi egbesola",
+        "cppe",
+        "dr. muda yusuf",
+        "industry"
+      ],
+      "creator": [
+        "tobi awodipe"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:23:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 03:07:50",
+      "image_url": "https://cdn.guardian.ng/wp-content/uploads/2023/01/MUDA-YUSUF.jpg",
+      "video_url": null,
+      "source_id": "guardian",
+      "source_name": "The Guardian",
+      "source_priority": 15930,
+      "source_url": "https://guardian.ng",
+      "source_icon": "https://n.bytvi.com/guardian.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8183dbba505d6cf3a7359b0089f88384",
+      "link": "https://halifax.citynews.ca/2025/12/30/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year/",
+      "title": "Asian shares trade mixed with some exchanges closed ahead of the New Year",
+      "description": "TOKYO (AP) \u2014 Major Asian stock markets, including Tokyo and Seoul, were closed Wednesday for the yearend and New Year\u2019s holidays, while trading was mixed in those bourses that remained open. In China, the Hang Seng index dipped 0.5% in early trading to 25,715.16, while the Shanghai Composite rose less than 0.1% to 3,966.39. The [...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "business"
+      ],
+      "creator": [
+        "news staff"
+      ],
+      "language": "english",
+      "country": [
+        "canada"
+      ],
+      "category": [
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:23:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:54:01",
+      "image_url": "https://halifax.citynews.ca/wp-content/blogs.dir/sites/5/2025/12/cac514cf4fee77bc5c821c56a42c6ce21efacc812c40c176c6d4a13a0c5d898c-1024x682.jpg",
+      "video_url": null,
+      "source_id": "halifaxtoday",
+      "source_name": "Halifax Today",
+      "source_priority": 942556,
+      "source_url": "https://www.halifaxtoday.ca",
+      "source_icon": "https://n.bytvi.com/halifaxtoday.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    },
+    {
+      "article_id": "29edf8d692813bf13469d99234f4d3ee",
+      "link": "https://www.winnipegfreepress.com/business/2025/12/30/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year",
+      "title": "Asian shares trade mixed with some exchanges closed ahead of the New Year",
+      "description": "TOKYO (AP) \u2014 Major Asian stock markets, including Tokyo and Seoul, were closed Wednesday for the yearend and New Year\u2019s holidays, while trading was mixed in those bourses that remained open. In...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world",
+        "business"
+      ],
+      "creator": [
+        "yuri kageyama, the associated press"
+      ],
+      "language": "english",
+      "country": [
+        "canada"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2025-12-31 02:23:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2025-12-31 02:44:46",
+      "image_url": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2025/12/7eeb002f832f8d1e0c87d89d0fe350d3350ff4f5d053bd64207175f418192098_e6c5f0.jpg?w=1000",
+      "video_url": null,
+      "source_id": "winnipegfreepress",
+      "source_name": "Winnipeg Free Press",
+      "source_priority": 101538,
+      "source_url": "https://www.winnipegfreepress.com",
+      "source_icon": "https://n.bytvi.com/winnipegfreepress.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
     }
   ]
 }

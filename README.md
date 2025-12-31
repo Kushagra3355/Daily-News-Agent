@@ -8,6 +8,7 @@ An intelligent news aggregation and summarization system powered by OpenAI. This
 - **Data Preprocessing**: Cleans and structures raw API responses for processing
 - **AI-Powered Summarization**: Uses OpenAI's language models to generate concise 3-4 line summaries
 - **REST API**: FastAPI-based REST endpoints for easy integration
+- **Streamlit Frontend**: Modern, user-friendly web interface for browsing and filtering news
 - **Category Filtering**: Filter news by categories and list available categories
 - **Caching**: Efficient caching system to avoid redundant API calls
 - **Structured Output**: Saves both raw news data and summaries in JSON format
@@ -38,6 +39,7 @@ Daily News Agent/
 │   ├── fetcher.py             # News fetching with pagination (up to 3 pages)
 │   ├── preprocessing.py       # Data preprocessing utilities
 │   └── scheduler.py           # Job scheduler for daily news pipeline
+├── streamlit_frontend.py      # Streamlit web interface
 ├── requirements.txt           # Project dependencies
 └── .env                       # Environment variables (not in repo)
 ```
@@ -119,7 +121,26 @@ Adjust in `utils/preprocessing.py`:
 
 ## Usage
 
-### Option 1: Run as REST API (Recommended)
+### Option 1: Run with Streamlit Frontend (Recommended)
+
+Start the Streamlit web interface:
+
+```bash
+streamlit run streamlit_frontend.py
+```
+
+The web interface will open automatically in your browser at `http://localhost:8501`
+
+**Features:**
+
+- 📰 View all news summaries in a clean, card-based layout
+- 🔍 Filter news by category using the sidebar dropdown
+- 🔄 Refresh news with a single button click (button disables during processing)
+- 📊 See article count and category statistics
+- 🔗 Direct links to read full articles
+- ⚡ Real-time processing with visual feedback
+
+### Option 2: Run as REST API
 
 Start the FastAPI server:
 
@@ -260,7 +281,7 @@ Visit `http://localhost:8000/docs` for Swagger UI interactive documentation wher
 - See example responses
 - Try different parameters
 
-**Alternative Documentation:**
+**Alternati3e Documentation:**
 
 Visit `http://localhost:8000/redoc` for ReDoc alternative documentation with a different UI.
 
@@ -293,7 +314,7 @@ This will automatically:
 3. Generate AI-powered summaries for each article
 4. Save results to `data/news_summary.json`
 
-### Option 3: Run Test Scripts
+### Option 4: Run Test Scripts
 
 Run individual test scripts:
 
@@ -423,8 +444,45 @@ MODEL_NAME=gpt-4o
    ```
 
 4. **FastAPI Server Issues**
+
    ```
    Solution: Ensure uvicorn is installed
    pip install uvicorn[standard]
    Check port 8000 is not in use
    ```
+
+5. **Streamlit Issues**
+   ```
+   Solution: Ensure streamlit is installed
+   pip install streamlit
+   Check port 8501 is not in use
+   ```
+
+## Future Enhancements
+
+The following features are planned for future releases:
+
+### 🗄️ Database Integration
+
+- **Persistent Storage**: Migrate from JSON file caching to a robust database solution (PostgreSQL/MongoDB)
+- **Historical Data**: Store and query historical news articles and summaries
+- **Performance**: Improved query performance and scalability
+- **Data Analytics**: Enable advanced analytics on news trends over time
+
+### 👥 Multi-User Support
+
+- **User Authentication**: Implement user registration and login system
+- **Personalized Feeds**: Allow users to customize their news preferences
+- **Saved Articles**: Enable users to bookmark and save favorite articles
+- **User Preferences**: Store individual user settings for categories, topics, and notification preferences
+- **Role-Based Access**: Admin and user roles with different permissions
+- **User Activity Tracking**: Track reading history and generate personalized recommendations
+
+### 📱 Additional Features
+
+- **Real-time Updates**: WebSocket support for live news updates
+- **Email Notifications**: Daily digest emails for subscribed users
+- **Mobile App**: React Native or Flutter mobile application
+- **Advanced Filtering**: More sophisticated filtering options (date range, source, sentiment)
+- **Social Features**: Share articles, comments, and discussions
+- **API Rate Limiting**: Per-user API rate limiting and quota management

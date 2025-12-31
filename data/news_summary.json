@@ -1,324 +1,219 @@
 {
-  "total_articles": 30,
+  "total_articles": 20,
   "summaries": [
     {
-      "title": "Delhi\u2019s air quality \u2018severe\u2019, dense smog affects vehicular movement",
-      "summary": "Delhi's air quality plummeted to 'severe' levels on Monday, with an average Air Quality Index (AQI) of 402. The smog affected vehicular movement, with 22 monitoring stations reporting 'severe' conditions, including Vivek Vihar, which recorded an AQI of 456.",
+      "title": "Need More Space on Your iPhone? Adjust These Settings Now",
+      "summary": "The article discusses how iPhone users can free up storage space by adjusting certain settings. It highlights the importance of managing storage as users capture more memories through photos and videos. The piece offers practical tips to optimize space on the device, ensuring users can continue to enjoy their iPhone without running out of storage.",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "source": "News4social",
+      "date": "2025-12-31 02:30:00",
+      "url": "https://en.news4social.com/need-more-space-on-your-iphone-adjust-these-settings-now/"
+    },
+    {
+      "title": "Revanth Reddy plans to make Greater Hyderabad pollution-free",
+      "summary": "Telangana Chief Minister A. Revanth Reddy has instructed officials to create an action plan aimed at making Greater Hyderabad a pollution-free city. During a review meeting with senior officials and newly appointed Zonal Commissioners, he stressed the importance of implementing effective measures for cleanliness and waste management.",
       "category": [
         "top",
         "environment"
       ],
       "source": "Siasat.com",
-      "date": "2025-12-29 05:17:18",
-      "url": "https://www.siasat.com/delhis-air-quality-severe-dense-smog-affects-vehicular-movement-3317832/"
+      "date": "2025-12-31 02:29:55",
+      "url": "https://www.siasat.com/revanth-reddy-plans-to-make-greater-hyderabad-pollution-free-3318729/"
     },
     {
-      "title": "Stock markets gather momentum after muted beginning",
-      "summary": "Stock market indices Sensex and Nifty started with slight gains on Monday but gained momentum later, influenced by positive trends in Asian markets and ongoing buying by domestic institutional investors. The BSE Sensex rose by 22.24 points to reach 85,063.69 in early trading.",
+      "title": "OPINION: Leadership imperatives for 2026",
+      "summary": "The article discusses the leadership challenges faced in 2025, highlighting a significant leadership deficit across organizations, with trust in managers plummeting and high levels of stress and burnout among leaders. It emphasizes the need for leaders to adopt four key imperatives for 2026: resetting their mindset to see opportunities, realigning with organizational purpose, reconnecting with employees, and re-energizing team commitment. The author argues that addressing these issues is crucial to prevent further organizational failures and improve overall morale and productivity.",
       "category": [
         "business"
       ],
-      "source": "Siasat.com",
-      "date": "2025-12-29 05:17:06",
-      "url": "https://www.siasat.com/stock-markets-gather-momentum-after-muted-beginning-3317823/"
+      "source": "Business Recorder",
+      "date": "2025-12-31 02:29:52",
+      "url": "https://www.brecorder.com/news/40399907/opinion-leadership-imperatives-for-2026"
     },
     {
-      "title": "China launches military exercise warning against Taiwan independence",
-      "summary": "China has initiated military exercises encircling Taiwan, issuing a warning against any moves toward independence. In response, Taiwan has condemned these actions, advocating for regional peace and a reduction in tensions.",
+      "title": "EDITORIAL: upcoming spectrum auction",
+      "summary": "The upcoming spectrum auction in Pakistan is crucial for enhancing internet speed and reliability, as the country faces significant spectrum shortages amid rising data usage. Historically, the government has prioritized spectrum sales for immediate fiscal revenue over long-term network improvements, leading to a lack of successful auctions in recent years. The government plans to auction 600 MHz of spectrum, but success will depend on pricing and payment conditions. The focus should be on improving existing 3G/4G networks while also preparing for future 5G infrastructure, ensuring that operators invest in technology upgrades to benefit consumers.",
       "category": [
-        "politics",
-        "top"
-      ],
-      "source": "Nzcity Personal",
-      "date": "2025-12-29 05:17:03",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=436924"
-    },
-    {
-      "title": "Space achievements reflect defiance of sanctions",
-      "summary": "Iran's First Vice President Mohammad Reza Aref stated that the country's advancements in space technologies showcase its progress and resilience in the face of unjust sanctions. He emphasized that these achievements reflect Iran's determination to overcome external pressures.",
-      "category": [
+        "top",
         "technology"
       ],
-      "source": "Mehr News Agency",
-      "date": "2025-12-29 05:16:54",
-      "url": "https://en.mehrnews.com/news/240240/Space-achievements-reflect-defiance-of-sanctions"
+      "source": "Business Recorder",
+      "date": "2025-12-31 02:29:33",
+      "url": "https://www.brecorder.com/news/40399906/editorial-upcoming-spectrum-auction"
     },
     {
-      "title": "QCDC launches \u2018My Career \u2013 My Future\u2019 Winter Edition",
-      "summary": "The Qatar Career Development Center (QCDC), in partnership with the Ministry of Labour, has launched the 'My Career \u2013 My Future' Winter Edition in Doha. This initiative aims to provide career guidance and development opportunities to help individuals enhance their professional skills and prepare for future employment.",
-      "category": [
-        "education",
-        "top"
-      ],
-      "source": "The Peninsula Qatar",
-      "date": "2025-12-29 05:16:46",
-      "url": "https://thepeninsulaqatar.com/article/29/12/2025/qcdc-launches-my-career-my-future-winter-edition"
-    },
-    {
-      "title": "UP Police hashtag tops global trending list on X for over two hours",
-      "summary": "The hashtag #UPPoliceManthan, related to a Uttar Pradesh police conference, trended globally on X for over two hours, garnering 1.7 billion impressions. Chaired by the Chief Minister, the conference aimed to enhance policing through technology and community engagement, with over 47,000 posts contributing to a reach of 38.6 million.",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "source": "The Tribune India",
-      "date": "2025-12-29 05:16:40",
-      "url": "https://www.tribuneindia.com/news/top-headlines/up-police-hashtag-tops-global-trending-list-on-x-for-over-two-hours"
-    },
-    {
-      "title": "UP Police hashtag tops global trending list on X for over 2 hours",
-      "summary": "The hashtag #UPPoliceManthan, associated with a Uttar Pradesh police conference, trended globally on X for over two hours, garnering 1.7 billion impressions. Chaired by the Chief Minister, the conference aimed to enhance policing through technology and community engagement, with over 47,000 posts contributing to a reach of 38.6 million.",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "source": "The Tribune India",
-      "date": "2025-12-29 05:16:40",
-      "url": "https://www.tribuneindia.com/news/india/up-police-hashtag-tops-global-trending-list-on-x-for-over-two-hours"
-    },
-    {
-      "title": "Silver Pips Nvidia To Become World's Second-Biggest Asset In Mcap; Gold Remains At Top",
-      "summary": "Silver has surpassed Nvidia to become the world's second-largest asset by market capitalization, with its value exceeding $4.7 trillion after prices rose above $84 per ounce. Gold remains the top asset in terms of market value.",
+      "title": "Stocks To Watch: IndiGo, Indian Hotels, Titan, Hyundai, Ola Electric, RITES, And Others",
+      "summary": "On Wednesday, stocks of companies including IndiGo, Indian Hotels, Titan, Hyundai, Ola Electric, and RITES are expected to attract attention in the market. Investors will be closely monitoring these firms for potential trading opportunities.",
       "category": [
         "business"
       ],
       "source": "News 18",
-      "date": "2025-12-29 05:16:02",
-      "url": "https://www.news18.com/business/markets/silver-pips-nvidia-to-become-worlds-second-biggest-asset-in-mcap-gold-remains-at-top-ws-l-9797458.html"
+      "date": "2025-12-31 02:28:23",
+      "url": "https://www.news18.com/business/markets/stocks-to-watch-indigo-indian-hotels-titan-hyundai-ola-electric-rites-and-others-9801339.html"
     },
     {
-      "title": "Hindustan Copper Hits Fresh Record High, Strong Global Copper Prices Drive Nearly 50 percent Rally",
-      "summary": "Hindustan Copper shares reached a record high, surging nearly 50 percent in just seven sessions. This rally is attributed to soaring global copper prices, supply disruptions, strong demand from the energy and technology sectors, and impressive quarterly earnings, which have bolstered investor confidence.",
+      "title": "Creative Biogene Launches High-Quality pegRNA Synthesis Service to Advance Precision Gene Editing",
+      "summary": "Creative Biogene has launched a new pegRNA Synthesis Service to meet the increasing demands of the biotechnology sector for precision gene editing. This service aims to support advanced prime gene editing applications, reflecting the company's commitment to innovation in the field.",
+      "category": [
+        "health"
+      ],
+      "source": "Openpr.com",
+      "date": "2025-12-31 02:28:04",
+      "url": "https://www.openpr.com/news/4332977/creative-biogene-launches-high-quality-pegrna-synthesis"
+    },
+    {
+      "title": "Defense panels still not clear on Golden Dome\u2019s attributes - Tue, 30 Dec 2025 PST",
+      "summary": "Seven months after President Trump proposed a Golden Dome missile shield, Pentagon oversight lawmakers report a lack of clarity regarding the system's attributes, cost, and schedule. The ongoing uncertainty raises concerns about the project's development and implementation.",
       "category": [
         "top",
-        "business"
-      ],
-      "source": "The Free Press Journal",
-      "date": "2025-12-29 05:15:52",
-      "url": "https://www.freepressjournal.in/business/hindustan-copper-hits-fresh-record-high-strong-global-copper-prices-drive-nearly-50-percent-rally"
-    },
-    {
-      "title": "Vietnam, Indonesia see vast room for further growth of ties: Ambassador",
-      "summary": "Vietnam and Indonesia have a long-standing friendship, established by leaders like President Ho Chi Minh and President Sukarno, which has significantly advanced in areas such as politics, economy, defense, and cultural exchanges. The Ambassador highlighted the potential for further growth in bilateral ties, with HCM City pledging to enhance relations. Additionally, Vietnam expressed condolences for the recent severe floods and landslides in Indonesia.",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "source": "Vietnam+",
-      "date": "2025-12-29 05:15:26",
-      "url": "https://en.vietnamplus.vn/vietnam-indonesia-see-vast-room-for-further-growth-of-ties-ambassador-post335080.vnp"
-    },
-    {
-      "title": "The Motley Fool Rule Breakers Besties of 2025",
-      "summary": "The article titled \"The Motley Fool Rule Breakers Besties of 2025\" highlights a selection of episodes from the year that provided valuable insights, entertainment, and enrichment to listeners. It celebrates the impactful content shared throughout the year, emphasizing the educational and amusing aspects of the episodes.",
-      "category": [
-        "business"
-      ],
-      "source": "Fool",
-      "date": "2025-12-29 05:15:00",
-      "url": "https://www.fool.com/investing/2025/12/29/the-besties-of-2025/"
-    },
-    {
-      "title": "Fitness Watches and Tech in 2026: Garmin, Fitbit and Rivals Face AI Shift, Accuracy Challenges and New Competition; Here\u2019s What To Expect",
-      "summary": "By 2026, the global fitness wearables market is poised for significant changes as brands like Garmin and Fitbit confront challenges related to accuracy and software. The industry is shifting towards AI-driven coaching and enhanced health insights, with an emphasis on deeper ecosystem integration and innovative designs, intensifying competition among existing and new players.",
-      "category": [
-        "technology"
-      ],
-      "source": "Latestly",
-      "date": "2025-12-29 05:14:04",
-      "url": "https://www.latestly.com/technology/fitness-watches-and-tech-in-2026-garmin-fitbit-and-rivals-face-ai-shift-accuracy-challenges-and-new-competition-heres-what-to-expect-7255313.html"
-    },
-    {
-      "title": "Billions of public funds wasted: CAG pulls up Modi govt's science, environment departments",
-      "summary": "A recent audit by the Comptroller and Auditor General (CAG) has revealed significant financial mismanagement within India's science and environment departments under the Modi government, highlighting billions of public funds wasted. The report points to systemic failures that are hindering essential missions in these sectors.",
-      "category": [
-        "science",
-        "top"
-      ],
-      "source": "Mathrubhumi English",
-      "date": "2025-12-29 05:13:58",
-      "url": "https://english.mathrubhumi.com/news/india/cag-report-modi-govt-science-environment-waste-jwg9cmx4"
-    },
-    {
-      "title": "Microsoft Requiring Internet To Install Windows Is Dystopian, Says Ethereum Creator Vitalik Buterin Amid Worries About Loss Of Control Over PCs",
-      "summary": "Vitalik Buterin, co-founder of Ethereum, expressed concerns over Microsoft requiring an internet connection to install Windows, labeling it as a dystopian trend that reflects increasing corporate control over personal computers. He emphasized that such practices threaten individual ownership and autonomy, highlighting a broader issue of corporations seeking to diminish personal control over technology.",
-      "category": [
-        "technology"
-      ],
-      "source": "Biztoc",
-      "date": "2025-12-29 05:13:32",
-      "url": "https://biztoc.com/x/7dd743cc3c215a55"
-    },
-    {
-      "title": "Top 5 Tata Sierra Rivals Arriving In 2026: Check List",
-      "summary": "The Tata Sierra SUV, starting at Rs 11.49 lakh, is set to encounter strong competition in 2026 with the introduction of several new and updated rivals. The article highlights the top five competitors that will challenge the Sierra in the market.",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "source": "Ndtv",
-      "date": "2025-12-29 05:12:37",
-      "url": "https://www.ndtv.com/auto/top-5-tata-sierra-rivals-arriving-in-2026-check-list-10051813"
-    },
-    {
-      "title": "A Future Classic In The Making: The Eco-Friendly Icaur V27 Makes Middle East Debut",
-      "summary": "iCAUR, a Chinese electric automotive brand, has made its Middle East debut with the launch of the V27 SUV in Dubai. The eco-friendly vehicle is positioned as a dynamic addition to the region's automotive market, highlighting the growing trend towards electric vehicles.",
-      "category": [
         "politics"
       ],
-      "source": "Menafn",
-      "date": "2025-12-29 05:12:33",
-      "url": "https://menafn.com/1110534147/A-Future-Classic-In-The-Making-The-Eco-Friendly-Icaur-V27-Makes-Middle-East-Debut"
+      "source": "Spokesman",
+      "date": "2025-12-31 02:28:00",
+      "url": "http://www.spokesman.com/stories/2025/dec/30/defense-panels-still-not-clear-on-golden-domes-att/"
     },
     {
-      "title": "Japanese tourists mistreated over swimsuits, Santa caps in Varanasi",
-      "summary": "Japanese tourists were reportedly mistreated in Varanasi for wearing swimsuits and Santa caps while visiting Dashashwamedh Ghat on December 25. Local devotees confronted them, accusing them of urinating in the river, leading to an uncomfortable situation for the visitors.",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "source": "Siasat.com",
-      "date": "2025-12-29 05:12:26",
-      "url": "https://www.siasat.com/japanese-tourists-mistreated-over-swimsuits-santa-caps-in-varanasi-3317798/"
-    },
-    {
-      "title": "Tara Sutaria shares pictures of her \u2018hearts\u2019 Veer Pahariya, Orry",
-      "summary": "Actress Tara Sutaria shared a glimpse of her cozy night out with her boyfriend Veer Pahariya and friend Orry on Instagram. She posted a collage of candid selfies taken at an intimate party, originally shared by Orry. The photos highlight their close friendship and fun atmosphere.",
-      "category": [
-        "entertainment"
-      ],
-      "source": "Siasat.com",
-      "date": "2025-12-29 05:12:24",
-      "url": "https://www.siasat.com/tara-sutaria-shares-pictures-of-her-hearts-veer-pahariya-orry-3317826/"
-    },
-    {
-      "title": "You can now experience the Stranger Things world in Minecraft, all details",
-      "summary": "Minecraft has launched a new Stranger Things DLC, allowing players to explore the eerie world of Hawkins, complete with Demogorgons, bike rides, and secret labs. This collaboration comes as the series concludes its final chapter on Netflix, offering fans a chance to immerse themselves in the show's chilling atmosphere. The DLC is available now.",
-      "category": [
-        "technology"
-      ],
-      "source": "Digit",
-      "date": "2025-12-29 05:12:00",
-      "url": "https://www.digit.in/news/gaming/you-can-now-experience-the-stranger-things-world-in-minecraft-all-details.html"
-    },
-    {
-      "title": "Anatomy of a pothole: What lies under the cracks",
-      "summary": "The article explores the persistent issue of potholes in Delhi, highlighting how, despite the city's modern infrastructure and skyline, residents continue to face disruptions during their travels. It delves into the underlying causes of potholes and the challenges they pose to daily commutes in the capital.",
+      "title": "One of our greatest men's one-day batters is stunned to receive a New Year Honour",
+      "summary": "A renowned men's one-day cricket batter has expressed surprise and gratitude after being awarded a New Year Honour. The accolade recognizes his significant contributions to the sport, highlighting his achievements and impact in cricket.",
       "category": [
         "top",
-        "business"
-      ],
-      "source": "Hindustan Times",
-      "date": "2025-12-29 05:11:47",
-      "url": "https://www.hindustantimes.com/cities/delhi-news/anatomy-of-a-pothole-what-lies-under-the-cracks-101766985108048.html"
-    },
-    {
-      "title": "Qatar advances AI leadership through key digital milestones",
-      "summary": "Qatar has made significant strides in digital transformation over the past decade, positioning itself as a leader in artificial intelligence. The country has implemented key digital milestones that have improved its economy and services, showcasing its commitment to advancing technology and innovation.",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "source": "The Peninsula Qatar",
-      "date": "2025-12-29 05:10:26",
-      "url": "https://thepeninsulaqatar.com/article/29/12/2025/qatar-advances-ai-leadership-through-key-digital-milestones"
-    },
-    {
-      "title": "B.C. port fuelling business by tapping into shipping\u2019s ongoing shift to LNG",
-      "summary": "A port in British Columbia has capitalized on the shipping industry's transition to liquefied natural gas (LNG) by facilitating its first major LNG ship-to-ship refueling in Nanaimo this year. This development positions the port as a key player in the growing LNG market, enhancing its business prospects in the maritime sector.",
-      "category": [
-        "top",
-        "business"
-      ],
-      "source": "Vernon Morning Star",
-      "date": "2025-12-29 05:10:00",
-      "url": "https://vernonmorningstar.com/2025/12/29/b-c-port-fuelling-business-by-tapping-into-shippings-ongoing-shift-to-lng/"
-    },
-    {
-      "title": "B.C. port fuelling business by tapping into shipping\u2019s ongoing shift to LNG",
-      "summary": "A port in British Columbia has capitalized on the shipping industry's transition to liquefied natural gas (LNG) by facilitating its first major LNG ship-to-ship refueling in Nanaimo this year. This development positions the port as a key player in the growing LNG market, catering to the increasing demand for cleaner fuel options in maritime transport.",
-      "category": [
-        "top",
-        "business"
-      ],
-      "source": "Kelowna Capital News",
-      "date": "2025-12-29 05:10:00",
-      "url": "https://kelownacapnews.com/2025/12/29/b-c-port-fuelling-business-by-tapping-into-shippings-ongoing-shift-to-lng/"
-    },
-    {
-      "title": "IIT Mandi placements in last 5 years: Salary package, sector, top companies and more",
-      "summary": "IIT Mandi has experienced significant growth in placements over the past five academic years (2020-21 to 2024-25), marked by increased recruiter participation and improved placement outcomes. The data indicates a diversification in the sectors and roles available to students, reflecting a positive trend in the institute's employment opportunities.",
-      "category": [
-        "top",
-        "breaking"
-      ],
-      "source": "The Indian Express",
-      "date": "2025-12-29 05:08:59",
-      "url": "https://indianexpress.com/article/education/iit-mandi-placement-report-5-year-salary-package-job-sector-top-companies-jee-main-2026-advanced-10443580/"
-    },
-    {
-      "title": "Garry Kasparov Criticizes Trump's Ukraine Approach, Praises Ukraine's President: 'We Are All Zelensky. But No One On Earth Has His Self-Control'",
-      "summary": "Garry Kasparov criticized former President Donald Trump's approach to Ukraine following a meeting with President Volodymyr Zelenskyy, questioning the representation of U.S. interests. He highlighted the presence of Trump allies at the meeting and praised Zelenskyy's leadership, stating, \"We are all Zelenskyy. But no one on Earth has his self-control.\" Kasparov's comments reflect concerns about U.S. foreign policy and support for Ukraine amidst ongoing tensions with Russia.",
-      "category": [
-        "politics"
-      ],
-      "source": "Benzinga",
-      "date": "2025-12-29 05:08:57",
-      "url": "https://www.benzinga.com/news/politics/25/12/49603186/garry-kasparov-criticizes-trumps-ukraine-approach-praises-ukraines-president-we-are-all-zelensky-bu"
-    },
-    {
-      "title": "Tilda Swinton is clueless when it comes to social media",
-      "summary": "Tilda Swinton, the 65-year-old actress, has never engaged with social media platforms such as Instagram, Facebook, X, or TikTok. She expresses a preference for in-person conversations over online interactions.",
-      "category": [
-        "top",
-        "entertainment"
+        "lifestyle"
       ],
       "source": "Nzcity Personal",
-      "date": "2025-12-29 05:08:33",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=436850"
+      "date": "2025-12-31 02:27:03",
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=436998"
     },
     {
-      "title": "BYD on track to surpass Tesla in global EV sales",
-      "summary": "Chinese automotive company BYD is poised to overtake Tesla as the world's leading electric vehicle manufacturer in annual sales. This shift highlights BYD's rapid growth and increasing competitiveness in the global EV market.",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "source": "Newsbytes",
-      "date": "2025-12-29 05:08:15",
-      "url": "https://www.newsbytesapp.com/news/auto/byd-set-to-dethrone-tesla-as-world-s-largest-ev-maker/story"
-    },
-    {
-      "title": "Why Bernie Sanders is targeting \u2018richest people in the world\u2019 over AI boom?",
-      "summary": "Bernie Sanders is raising concerns about the AI boom, which he believes, fueled by billionaires, could exacerbate job insecurity. He advocates for a pause on new data centers and is urging Congress to take action to address these issues.",
+      "title": "Apollo Techno Industries shares to debut today. GMP steady ahead of listing",
+      "summary": "Apollo Techno Industries is set to debut on the BSE SME platform today, following a successful Rs 48 crore IPO that garnered strong interest from various investor categories. The shares are expected to list with a modest grey market premium, reflecting steady demand for the company's trenchless technology in infrastructure.",
       "category": [
         "top",
         "business"
       ],
-      "source": "Mint",
-      "date": "2025-12-29 05:07:59",
-      "url": "https://www.livemint.com/ai/artificial-intelligence/why-bernie-sanders-is-targeting-richest-people-in-the-world-over-ai-boom-11766981393171.html"
-    },
-    {
-      "title": "$22 billion-capital: How 2025 became the year of the Indian IPO",
-      "summary": "In 2025, India is set to witness a surge in initial public offerings (IPOs), with over 200 companies either gaining approval from the securities regulator or submitting prospectuses. This marks the highest number of IPOs in 27 years, highlighting a significant growth in the Indian capital market, which is projected to reach a valuation of $22 billion.",
-      "category": [
-        "domestic"
-      ],
-      "source": "Theprint",
-      "date": "2025-12-29 05:07:35",
-      "url": "https://theprint.in/business/22-billion-capital-how-2025-became-the-year-of-the-indian-ipo/2814045/"
-    },
-    {
-      "title": "\u2018It is not our ambition to become a 'Vishwaguru\u2019; it is the need of the...\u2019 says RSS Chief Bhagwat",
-      "summary": "RSS Chief Mohan Bhagwat stated that India's aspiration to become a 'Vishwaguru' is driven by global necessity rather than ambition. He highlighted the importance of technology serving humanity and called on Hindus to exemplify 'dharma' worldwide, advocating for leadership without reliance on military or economic strength.",
-      "category": [
-        "politics",
-        "top"
-      ],
       "source": "The Economic Times",
-      "date": "2025-12-29 05:07:34",
-      "url": "https://economictimes.indiatimes.com/news/india/it-is-not-our-ambition-to-become-a-vishwaguru-it-is-the-need-of-the-says-rss-chief-bhagwat/videoshow/126224876.cms"
+      "date": "2025-12-31 02:27:01",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-techno-industries-shares-to-debut-today-gmp-steady-ahead-of-listing/articleshow/126262394.cms"
+    },
+    {
+      "title": "New Residential Tower Nearly as Tall as Transamerica Pyramid Gets Approved",
+      "summary": "A new residential tower in San Francisco, nearly as tall as the iconic Transamerica Pyramid, has received approval after years of delays. This development is set to significantly alter the city's skyline.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "source": "Sfist",
+      "date": "2025-12-31 02:26:57",
+      "url": "https://sfist.com/2025/12/30/new-residential-tower-nearly-as-tall-as-transamerica-approved/"
+    },
+    {
+      "title": "Automotive Thermal Management Market Research: at a CAGR of 6.8% during the forecast period",
+      "summary": "QY Research Inc. has released a report on the Automotive Thermal Management market, projecting a compound annual growth rate (CAGR) of 6.8% from 2026 to 2032. The report includes an analysis of historical data from 2020 to 2024, along with forecasts for market share, sales, and demand.",
+      "category": [
+        "business"
+      ],
+      "source": "Openpr.com",
+      "date": "2025-12-31 02:25:34",
+      "url": "https://www.openpr.com/news/4332976/automotive-thermal-management-market-research-at-a-cagr-of-6-8"
+    },
+    {
+      "title": "Asian shares trade mixed with some exchanges closed ahead of the New Year",
+      "summary": "Major Asian stock markets, including Tokyo and Seoul, were closed for year-end and New Year\u2019s holidays, leading to mixed trading in the remaining open exchanges. In early trading, Hong Kong's Hang Seng index fell 0.5% to 25,715.16, while China's Shanghai Composite saw a slight increase of less than 0.1% to 3,966.39.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "source": "Financial Post",
+      "date": "2025-12-31 02:25:04",
+      "url": "https://financialpost.com/pmn/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year"
+    },
+    {
+      "title": "This Car Brand Scores The Worst For Owner Satisfaction In Consumer Reports' Ranking",
+      "summary": "Consumer Reports has identified a specific car brand that ranks lowest in owner satisfaction among all brands evaluated. The report highlights the brand's shortcomings, indicating that it fails to meet customer expectations effectively.",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "source": "Jalopnik",
+      "date": "2025-12-31 02:25:00",
+      "url": "https://www.jalopnik.com/2060288/car-brand-with-worst-owner-satisfaction-consumer-reports/"
+    },
+    {
+      "title": "Explained: Why China Banned Starlink And Penalised A Ship For Using It",
+      "summary": "China has banned Starlink, citing it as a \"national security threat\" due to concerns over foreign-controlled satellite communications, overseas data routing, and potential military applications. Additionally, the country penalized a ship for using the service, reinforcing its stance on controlling satellite internet access within its borders.",
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "source": "Times Now News",
+      "date": "2025-12-31 02:24:40",
+      "url": "https://www.timesnownews.com/world/asia/china-banned-starlink-national-security-threat-penalised-ship-article-153373145"
+    },
+    {
+      "title": "Bid To Shape Budget 2026 Strategy: PM bats for mission mode reforms to sustain long-term growth",
+      "summary": "Prime Minister Narendra Modi emphasized the need for mission mode reforms to ensure sustained long-term growth during a discussion with prominent economists at NITI Aayog. This interaction is part of efforts to shape the strategy for the 2026 budget, focusing on innovative approaches to economic development.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "source": "The Hans India",
+      "date": "2025-12-31 02:24:30",
+      "url": "https://www.thehansindia.com/news/national/bid-to-shape-budget-2026-strategy-pm-bats-for-mission-mode-reforms-to-sustain-long-term-growth-1035202"
+    },
+    {
+      "title": "Interview: Punjab\u2019s law & order better than most states, says DGP Gaurav Yadav",
+      "summary": "Punjab Police Chief Gaurav Yadav stated that the law and order situation in Punjab is better than in many other states. In an interview, he discussed the security challenges the state faces, current crime trends, and the ongoing efforts to combat drug-related issues, highlighting the police's effective control over law and order.",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "source": "Hindustan Times",
+      "date": "2025-12-31 02:24:18",
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/interview-punjab-s-law-order-better-than-most-states-says-dgp-gaurav-yadav-101767122959489.html"
+    },
+    {
+      "title": "2025 Editor\u2019s Year-End Message | Reading the Structure of Change",
+      "summary": "In the year-end message for 2025, the author reflects on the rapid and multifaceted changes in the technology industry, especially in artificial intelligence. The year is characterized as a complex period of transition rather than a straightforward twelve-month cycle, highlighting the significant shifts and developments that have occurred.",
+      "category": [
+        "technology"
+      ],
+      "source": "Korea It Times",
+      "date": "2025-12-31 02:24:13",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=149471"
+    },
+    {
+      "title": "2026: Stakeholders chart path for business survival",
+      "summary": "Stakeholders emphasize that businesses must swiftly adapt to evolving economic conditions to ensure survival in 2026. They advocate for fundamental operational changes as essential for navigating future challenges.",
+      "category": [
+        "business"
+      ],
+      "source": "The Guardian",
+      "date": "2025-12-31 02:23:26",
+      "url": "https://guardian.ng/business-services/industry/2026-stakeholders-chart-path-for-business-survival/"
+    },
+    {
+      "title": "Asian shares trade mixed with some exchanges closed ahead of the New Year",
+      "summary": "Asian stock markets showed mixed results as major exchanges like Tokyo and Seoul were closed for the New Year holidays. In early trading, Hong Kong's Hang Seng index fell 0.5% to 25,715.16, while China's Shanghai Composite saw a slight increase of less than 0.1%, reaching 3,966.39.",
+      "category": [
+        "top",
+        "business"
+      ],
+      "source": "Halifax Today",
+      "date": "2025-12-31 02:23:00",
+      "url": "https://halifax.citynews.ca/2025/12/30/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year/"
+    },
+    {
+      "title": "Asian shares trade mixed with some exchanges closed ahead of the New Year",
+      "summary": "Major Asian stock markets, including Tokyo and Seoul, were closed for year-end and New Year\u2019s holidays, leading to mixed trading in the exchanges that remained open. The overall sentiment reflected a cautious approach as investors awaited further developments in the new year.",
+      "category": [
+        "world"
+      ],
+      "source": "Winnipeg Free Press",
+      "date": "2025-12-31 02:23:00",
+      "url": "https://www.winnipegfreepress.com/business/2025/12/30/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year"
     }
   ]
 }
