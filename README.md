@@ -6,7 +6,7 @@ An intelligent news aggregation and summarization system powered by OpenAI. This
 
 ## Features
 
-- **News Fetching**: Automatically fetches the latest technology news from NewsData.io API with pagination support (up to 3 pages)
+- **News Fetching**: Automatically fetches the latest technology news from NewsData.io API with pagination support
 - **Data Preprocessing**: Cleans and structures raw API responses for processing
 - **AI-Powered Summarization**: Uses OpenAI's language models to generate concise 3-4 line summaries
 - **REST API**: FastAPI-based REST endpoints for easy integration
@@ -29,7 +29,7 @@ Daily News Agent/
 │   ├── dependencies.py        # LLM initialization
 │   └── temp_main.py           # Standalone script runner
 ├── data/
-│   ├── news_response.json     # Raw news data from API (generated)
+│   ├── news_response.json     # Raw news data from API
 │   └── news_summary.json      # AI-generated summaries (generated)
 ├── test/
 │   ├── agent_test.py          # Test script for agent functionality
@@ -38,7 +38,7 @@ Daily News Agent/
 │   ├── category_filter.py     # Filter news by category
 │   └── category_extractor.py  # Extract available categories
 ├── utils/
-│   ├── fetcher.py             # News fetching with pagination (up to 3 pages)
+│   ├── fetcher.py             # News fetching with pagination up to 3 pages (can be changed)
 │   ├── preprocessing.py       # Data preprocessing utilities
 │   └── scheduler.py           # Job scheduler for daily news pipeline
 ├── streamlit_frontend.py      # Streamlit web interface
